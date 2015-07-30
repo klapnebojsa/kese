@@ -1,0 +1,226 @@
+/*
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */
+package Forme;
+
+import Forme.Konstante.Mere;
+import Forme.Tabele.MojaTabela;
+import Sistem.OsnovneDefinicije.RezolucijaEkrana;
+import Stampa.PagesPripremi;
+import Stampa.PreviewMenuBar;
+import Stampa.Pripremi.PripremiFooter;
+import Stampa.Pripremi.PripremiHeader;
+import Stampa.Pripremi.PripremiKraj;
+import Stampa.Pripremi.PripremiNaslov;
+import Stampa.Pripremi.PripremiSve;
+import Stampa.Pripremi.PripremiTabelu;
+import Stampa.Pripremi.PripremiUvod;
+import Stampa.Pripremi.PripremiZakljucak;
+import Stampa.StampaSetujPage;
+import java.awt.BorderLayout;
+import java.awt.Color;
+import java.awt.Dimension;
+import java.awt.event.ActionEvent;
+import java.awt.event.ActionListener;
+import java.awt.print.PageFormat;
+import java.awt.print.PrinterException;
+import java.awt.print.PrinterJob;
+import java.io.IOException;
+import java.util.List;
+import java.util.Vector;
+import java.util.logging.Level;
+import java.util.logging.Logger;
+import javax.print.DocPrintJob;
+import javax.print.PrintService;
+import javax.swing.JFrame;
+import javax.swing.JScrollPane;
+import javax.swing.ScrollPaneConstants;
+import javax.swing.border.LineBorder;
+/**
+ * @author Nebojsa
+ */
+public class FormPrintPreview extends JFrame implements ActionListener{
+    public MojaTabela mt1;
+    public FormForme koZove;
+    boolean ispravanPrikaz = true;
+    public PageFormat pageFormat;
+    List mojeMargine;
+    public PagesPripremi pagesPripremi;
+    public PreviewMenuBar stampaMenuBar;
+    PrinterJob pj;
+    public StampaSetujPage stampaSetujPage;
+   
+    public Vector headerLineVectorAll;      //Header (na svakoj strani)
+    public Vector naslovLineVectorAll;      //Naslov (samo na prvoj strani)
+    public Vector uvodLineVectorAll;        //Uvod na vrhu strane(na svakoj strani)
+    public Vector tableHeaderLineVector;    //ZaglavljeTabele
+    public Vector tableMedjuZbirVector;     //MedjuZbir u tabeli (donos i prenos). Samo oblik. Vrednosti se dodaju dinamicki
+    public Vector kojaPoljaMedjuZbirVector; //MedjuZbir u tabeli (donos i prenos). Samo oblik. Vrednosti se dodaju dinamicki    
+    public Vector tableLineVectorAll;       //Tabela ili podaci za izvestaj
+    public Vector zakljucakLineVectorAll;   //Zakljucak na dnu (na svakoj strani)
+    public Vector krajLineVectorAll;        //Kraj na kraju zadnje strane
+    public Vector footerLineVectorAll;      //Footer (na svakoj strani)
+
+    public PripremiHeader pripremiHeader; 
+    public PripremiNaslov pripremiNaslov;
+    public PripremiUvod pripremiUvod;
+    //Pripremi tabelu moze ds bude priprema tabele ako je Tabelarni prikaz ali i ne mora ako je potreban neki drugi oblik stampe
+    public PripremiTabelu pripremiTabelu;
+    
+    public PripremiZakljucak pripremiZakljucak;
+    public PripremiKraj pripremiKraj;    
+    public PripremiFooter pripremiFooter;
+    
+    public String oznakaStampe;
+    public String kojaStampa;
+    public FormPrintPreview (MojaTabela mt1, FormForme koZove, String oznakaStampe, String kojaStampa){
+        super();
+        //this.setLayout(null);
+        this.mt1 = mt1;
+        this.koZove = koZove;
+        this.oznakaStampe = oznakaStampe;
+        this.kojaStampa = kojaStampa;
+    }
+    public void Prikazi() throws IOException, Exception{
+        koZove.setEnabled(false);
+
+        RezolucijaEkrana re = new RezolucijaEkrana(); //rezolucija
+        Dimension fullScr = re.FullScreenMaloManje();   
+        setSize(fullScr);                             //Velicina Forme (Cela Strana)
+        setLocationRelativeTo(null);  
+        
+        pj = PrinterJob.getPrinterJob();      
+        pageFormat = pj.defaultPage();
+        stampaSetujPage = new StampaSetujPage();                          //Postavljanje vrednosti Margina u PrinterJob.pageDialog iz BAZE
+        stampaSetujPage.SetujPageSetup(pageFormat, pj, this, koZove);
+
+        //Priprema svih delova za Stampu - kda se bude htela stampa za neku formu a ne za tabelu u ovom delu dodati
+        PripremiSve pripremiSve = new PripremiSve();
+        pripremiSve.Priprema(this);
+
+        //Preview Strane
+        pagesPripremi = new PagesPripremi(headerLineVectorAll, naslovLineVectorAll, uvodLineVectorAll, 
+                                    zakljucakLineVectorAll, krajLineVectorAll, footerLineVectorAll,
+                                    tableLineVectorAll, tableHeaderLineVector, tableMedjuZbirVector, kojaPoljaMedjuZbirVector, pageFormat, this, mt1);
+        
+        //add(new JScrollPane(pagesPripremi), BorderLayout.CENTER);
+        //pagesPripremi.setPreferredSize(new Dimension(1000, 1000));
+        //JScrollPane pane = new JScrollPane(JScrollPane.VERTICAL_SCROLLBAR_ALWAYS, JScrollPane.HORIZONTAL_SCROLLBAR_AS_NEEDED);
+
+        //this.setContentPane(pane);   
+        
+        
+        /*JFrame frm = new JFrame("Scroll Pane demo");
+        JPanel panel = new JPanel();
+        panel. setLayout(new GridLayout(20,5));
+        for(int i=0;i<100;i++){
+                panel. add(new JButton("Button no. " + (i+1)));
+            }*/
+        
+
+        /*JScrollPane scrPane = new JScrollPane(pagesPripremi,ScrollPaneConstants.VERTICAL_SCROLLBAR_AS_NEEDED,ScrollPaneConstants.HORIZONTAL_SCROLLBAR_AS_NEEDED);
+        scrPane.setSize(400, 200);
+        //pagesPripremi.setLayout(null);        
+        pagesPripremi.setPreferredSize(fullScr);        
+        pagesPripremi.setSize(fullScr.width, fullScr.height);
+        
+        //scrPane.setPreferredSize(new Dimension(800, 600));
+        scrPane.setViewportBorder(new LineBorder(Color.RED));
+        scrPane.setLocation((fullScr.width - scrPane.getWidth()) / 2, 100);
+        add(scrPane);*/
+        
+        /*JScrollPane jsp = new JScrollPane(pagesPripremi,ScrollPaneConstants.VERTICAL_SCROLLBAR_AS_NEEDED,ScrollPaneConstants.HORIZONTAL_SCROLLBAR_AS_NEEDED);
+        getContentPane().add(jsp);
+        setBounds(0,0,fullScr.width,fullScr.height);
+        setVisible(true);*/
+        
+        
+        add(new JScrollPane(pagesPripremi), BorderLayout.CENTER);        
+        //add(new JScrollPane(pagesPripremi));
+        //Button u vrhu strane - Stampa, prethodni, sledeci
+        stampaMenuBar = new PreviewMenuBar(true, this);
+        add(stampaMenuBar, BorderLayout.NORTH);
+        //add(stampaMenuBar);
+        setVisible(true);       
+        
+        //Listner-i ------------------------------------------------------------------------------------------ 
+        // X-Za zatvaranje forme
+        addWindowListener(new java.awt.event.WindowAdapter() {
+            public void windowClosing(java.awt.event.WindowEvent e) {
+                koZove.setEnabled(true);
+            }
+        });
+    }   
+    public void showTitle(PagesPripremi pagesPripremi) {
+        int currentPage = pagesPripremi.getTrenutnatPage() + 1;
+        int numPages = pagesPripremi.getNumPages();
+        setTitle("Print Preview - " + koZove.getOpisForme() +  " strana " + currentPage + " od " + numPages);
+        try{stampaMenuBar.tekucaStrana.setText("" + currentPage);
+        }catch(Exception e){} 
+    }
+    @Override
+    public void actionPerformed(ActionEvent e) {
+        String a = e.getActionCommand();
+        PrinterJob pj = PrinterJob.getPrinterJob();        
+        switch (a){
+            //Izbor Formata Strane            
+            case "pageSetupButton":
+                Mere mere = new Mere();
+                Double preracun = mere.getMmPageFormat() / 10;
+                pageFormat = pj.pageDialog(pageFormat);
+                //Setovanje koordinata, orijentacije ... - POLJA IZ MARGINA            
+                stampaSetujPage.setMLeft((int)(pageFormat.getImageableX() / preracun));
+                stampaSetujPage.setMRight((int)((pageFormat.getWidth() - pageFormat.getImageableX() - pageFormat.getImageableWidth() + 0.5) / preracun));                 
+                stampaSetujPage.setMTop((int)(pageFormat.getImageableY() / preracun));
+                stampaSetujPage.setMDown((int)((pageFormat.getHeight() - pageFormat.getImageableY() - pageFormat.getImageableHeight() + 0.5) / preracun));
+               
+                PripremiSve pripremiSve = new PripremiSve();
+                pripremiSve.Priprema(this);
+                             
+                pagesPripremi.setHeaderLineVectorAll(headerLineVectorAll);
+                pagesPripremi.setNaslovLineVectorAll(naslovLineVectorAll);
+                pagesPripremi.setUvodLineVectorAll(uvodLineVectorAll);                
+                pagesPripremi.setZakljucakLineVectorAll(zakljucakLineVectorAll);
+                pagesPripremi.setKrajLineVectorAll(krajLineVectorAll);                
+                pagesPripremi.setFooterLineVectorAll(footerLineVectorAll);                
+                pagesPripremi.setLineVectorAll(tableLineVectorAll);
+                pagesPripremi.setTableHeaderLineVector(tableHeaderLineVector);
+                pagesPripremi.setTableMedjuZbirVector(tableMedjuZbirVector);
+                
+                if (pagesPripremi != null) pagesPripremi.pageInit(pageFormat);
+                break;
+            case "nextButton":      if (pagesPripremi != null) pagesPripremi.sledecaStrana();    break;
+            case "previousButton":  if (pagesPripremi != null) pagesPripremi.prethodnaStrana();  break;                
+            case "lastButton":      if (pagesPripremi != null) pagesPripremi.poslednjaStrana();  break;                
+            case "firstButton":     if (pagesPripremi != null) pagesPripremi.prvaStrana();       break; 
+            case "printButton":
+                PrintService[] stampaci = PrinterJob.lookupPrintServices();
+                DocPrintJob docPrintJob = null;
+                
+                for (PrintService printer : stampaci){
+                    if (printer.getName().equalsIgnoreCase(stampaSetujPage.getMStampac())) {docPrintJob = printer.createPrintJob(); break;}
+                }
+                try {pj.setPrintService(docPrintJob.getPrintService());
+                } catch (PrinterException ex) { Logger.getLogger(FormPrintPreview.class.getName()).log(Level.SEVERE, null, ex);}
+
+                pj.setPrintable(pagesPripremi, pageFormat);
+                if (pj.printDialog()) {
+                    pagesPripremi.setJestStampa(true);
+                    pagesPripremi.setBrKopija(pj.getCopies());
+                    try {pj.print();} catch (PrinterException e1) {}                    
+                    pagesPripremi.setBrKopija(1);
+                    pagesPripremi.setJestStampa(false);
+                }
+                break;                                  
+            default:
+                break;
+        }
+        if (pagesPripremi != null) showTitle(pagesPripremi);
+    }
+    public void setPageFormat(PageFormat pageFormat){
+        this.pageFormat = pageFormat;
+    }
+    
+}
