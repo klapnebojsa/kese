@@ -79,7 +79,6 @@ public class FormPrintPreview extends JFrame implements ActionListener{
     public String kojaStampa;
     public FormPrintPreview (MojaTabela mt1, FormForme koZove, String oznakaStampe, String kojaStampa){
         super();
-        //this.setLayout(null);
         this.mt1 = mt1;
         this.koZove = koZove;
         this.oznakaStampe = oznakaStampe;

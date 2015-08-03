@@ -46,9 +46,11 @@ public class ComboChangePagePercent implements ItemListener {
                             previewMenuBar.formPrintPreview.pagesPripremi.p = (double)fullScr.height / ukupnoOsnovno.height;                            
                             break;
                     }
+                    try{previewMenuBar.formPrintPreview.stampaMenuBar.tekuceUvecanje.setText(String.valueOf((int)(previewMenuBar.formPrintPreview.pagesPripremi.p*100)) + " %");
+                    }catch(Exception e1){}
                 }
-                previewMenuBar.formPrintPreview.revalidate();
-                previewMenuBar.formPrintPreview.repaint();   
+                previewMenuBar.formPrintPreview.pagesPripremi.revalidate();
+                previewMenuBar.formPrintPreview.pagesPripremi.repaint();   
             }catch(Exception e1){}
        }
     }

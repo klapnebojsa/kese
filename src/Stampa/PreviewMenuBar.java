@@ -13,6 +13,7 @@ import java.awt.Color;
 import java.awt.Dimension;
 import java.awt.Font;
 import java.awt.Graphics;
+import javax.swing.BorderFactory;
 import javax.swing.JButton;
 import javax.swing.JComboBox;
 import javax.swing.JLabel;
@@ -104,8 +105,7 @@ public class PreviewMenuBar extends JPanel {
             
             prazno = new JLabel(); 
             prazno.setPreferredSize(d);            
-            add(prazno);
-            
+            add(prazno);      
             
             previewPage = new JComboBox();
             JLabel strLabel = new JLabel("Strana:");
@@ -117,10 +117,7 @@ public class PreviewMenuBar extends JPanel {
             ComboChangedPageNo comboChangedPageNo = new ComboChangedPageNo(this);            
             previewPage.addItemListener(comboChangedPageNo);
             add(previewPage);            
-            
-            
-            
-            
+
             prazno = new JLabel(); 
             prazno.setPreferredSize(d);            
             add(prazno);

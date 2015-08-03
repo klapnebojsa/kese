@@ -5,13 +5,9 @@
  */
 package Forme.Polja.Listeneri;
 
-import Sistem.OsnovneDefinicije.RezolucijaEkrana;
 import Stampa.PreviewMenuBar;
-import java.awt.Dimension;
 import java.awt.event.ItemEvent;
 import java.awt.event.ItemListener;
-import javax.swing.JMenuItem;
-
 /**
  *
  * @author Nebojsa
