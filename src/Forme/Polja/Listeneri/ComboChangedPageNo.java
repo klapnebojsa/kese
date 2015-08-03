@@ -23,7 +23,7 @@ public class ComboChangedPageNo implements ItemListener {
         this.previewMenuBar = previewMenuBar;
     }
 
-    Object vrednost = null;
+    Object vrednost;
     String vred;
     public void itemStateChanged(ItemEvent event) {
         if (event.getStateChange() == ItemEvent.SELECTED) {
