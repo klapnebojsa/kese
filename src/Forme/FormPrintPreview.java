@@ -113,6 +113,7 @@ public class FormPrintPreview extends JFrame implements ActionListener{
 
         //Button u vrhu strane - Stampa, prethodni, sledeci
         stampaMenuBar = new PreviewMenuBar(true, this);
+        stampaMenuBar.setOpaque(false);
         add(stampaMenuBar, BorderLayout.NORTH);
         setVisible(true);       
         

@@ -18,9 +18,7 @@ import java.util.logging.Logger;
 public class PripremiSve {
     public void Priprema(FormPrintPreview form){
         form.pripremiHeader = new PripremiHeader(form, form.pageFormat, new Vector(), form.oznakaStampe);        //HEADER
-        form.headerLineVectorAll = form.pripremiHeader.HeaderLineVectorAll();
-        
-        
+        form.headerLineVectorAll = form.pripremiHeader.HeaderLineVectorAll(); 
         form.pripremiNaslov = new PripremiNaslov(form, form.pageFormat, new Vector(), form.oznakaStampe);        //NASLOV
         form.naslovLineVectorAll = form.pripremiNaslov.NaslovLineVectorAll(); 
         form.pripremiUvod = new PripremiUvod(form, form.pageFormat, new Vector(), form.oznakaStampe);            //UVOD  
