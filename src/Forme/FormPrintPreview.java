@@ -34,7 +34,9 @@ import java.util.logging.Level;
 import java.util.logging.Logger;
 import javax.print.DocPrintJob;
 import javax.print.PrintService;
+import javax.swing.JComponent;
 import javax.swing.JFrame;
+import javax.swing.JPanel;
 import javax.swing.JScrollPane;
 import javax.swing.ScrollPaneConstants;
 import javax.swing.border.LineBorder;
@@ -104,45 +106,15 @@ public class FormPrintPreview extends JFrame implements ActionListener{
         pagesPripremi = new PagesPripremi(headerLineVectorAll, naslovLineVectorAll, uvodLineVectorAll, 
                                     zakljucakLineVectorAll, krajLineVectorAll, footerLineVectorAll,
                                     tableLineVectorAll, tableHeaderLineVector, tableMedjuZbirVector, kojaPoljaMedjuZbirVector, pageFormat, this, mt1);
-        
-        //add(new JScrollPane(pagesPripremi), BorderLayout.CENTER);
-        //pagesPripremi.setPreferredSize(new Dimension(1000, 1000));
-        //JScrollPane pane = new JScrollPane(JScrollPane.VERTICAL_SCROLLBAR_ALWAYS, JScrollPane.HORIZONTAL_SCROLLBAR_AS_NEEDED);
+        JScrollPane scrollP= new JScrollPane(pagesPripremi);
+        scrollP.setWheelScrollingEnabled(true);
+        scrollP.getVerticalScrollBar().setUnitIncrement(40);
+        scrollP.getHorizontalScrollBar().setUnitIncrement(40);  
+        add(scrollP, BorderLayout.CENTER);
 
-        //this.setContentPane(pane);   
-        
-        
-        /*JFrame frm = new JFrame("Scroll Pane demo");
-        JPanel panel = new JPanel();
-        panel. setLayout(new GridLayout(20,5));
-        for(int i=0;i<100;i++){
-                panel. add(new JButton("Button no. " + (i+1)));
-            }*/
-        
-
-        /*JScrollPane scrPane = new JScrollPane(pagesPripremi,ScrollPaneConstants.VERTICAL_SCROLLBAR_AS_NEEDED,ScrollPaneConstants.HORIZONTAL_SCROLLBAR_AS_NEEDED);
-        scrPane.setSize(400, 200);
-        //pagesPripremi.setLayout(null);        
-        pagesPripremi.setPreferredSize(fullScr);        
-        pagesPripremi.setSize(fullScr.width, fullScr.height);
-        
-        //scrPane.setPreferredSize(new Dimension(800, 600));
-        scrPane.setViewportBorder(new LineBorder(Color.RED));
-        scrPane.setLocation((fullScr.width - scrPane.getWidth()) / 2, 100);
-        add(scrPane);*/
-        
-        /*JScrollPane jsp = new JScrollPane(pagesPripremi,ScrollPaneConstants.VERTICAL_SCROLLBAR_AS_NEEDED,ScrollPaneConstants.HORIZONTAL_SCROLLBAR_AS_NEEDED);
-        getContentPane().add(jsp);
-        setBounds(0,0,fullScr.width,fullScr.height);
-        setVisible(true);*/
-        
-        
-        add(new JScrollPane(pagesPripremi), BorderLayout.CENTER);        
-        //add(new JScrollPane(pagesPripremi));
         //Button u vrhu strane - Stampa, prethodni, sledeci
         stampaMenuBar = new PreviewMenuBar(true, this);
         add(stampaMenuBar, BorderLayout.NORTH);
-        //add(stampaMenuBar);
         setVisible(true);       
         
         //Listner-i ------------------------------------------------------------------------------------------ 
@@ -190,6 +162,8 @@ public class FormPrintPreview extends JFrame implements ActionListener{
                 pagesPripremi.setTableMedjuZbirVector(tableMedjuZbirVector);
                 
                 if (pagesPripremi != null) pagesPripremi.pageInit(pageFormat);
+                //Redefinisanje izbora preview-a strane
+                stampaMenuBar.setPreviewPage();
                 break;
             case "nextButton":      if (pagesPripremi != null) pagesPripremi.sledecaStrana();    break;
             case "previousButton":  if (pagesPripremi != null) pagesPripremi.prethodnaStrana();  break;                

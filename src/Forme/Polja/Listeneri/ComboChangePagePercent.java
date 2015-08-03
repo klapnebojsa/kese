@@ -15,12 +15,12 @@ import javax.swing.JMenuItem;
  *
  * @author Nebojsa
  */
-public class ComboChange implements ItemListener {
+public class ComboChangePagePercent implements ItemListener {
     JMenuItem menuItemNovi;
     JMenuItem menuItemIzmeni;
     PreviewMenuBar previewMenuBar; 
 
-    public ComboChange(PreviewMenuBar previewMenuBar) {
+    public ComboChangePagePercent(PreviewMenuBar previewMenuBar) {
         this.previewMenuBar = previewMenuBar;
     }
 

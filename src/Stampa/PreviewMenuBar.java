@@ -7,7 +7,8 @@ package Stampa;
 
 import Forme.FormPrintPreview;
 import Forme.Napuni.ComboBoxovi.NapuniCombo;
-import Forme.Polja.Listeneri.ComboChange;
+import Forme.Polja.Listeneri.ComboChangePagePercent;
+import Forme.Polja.Listeneri.ComboChangedPageNo;
 import java.awt.Color;
 import java.awt.Dimension;
 import java.awt.Font;
@@ -30,7 +31,8 @@ public class PreviewMenuBar extends JPanel {
     public JLabel tekucaStrana;
     public JLabel tekuceUvecanje;
     public JComboBox procWidth;
-
+    public JComboBox previewPage;
+    
     private enum Actions {
         pageSetupButton,
         firstButton,
@@ -104,6 +106,25 @@ public class PreviewMenuBar extends JPanel {
             prazno.setPreferredSize(d);            
             add(prazno);
             
+            
+            previewPage = new JComboBox();
+            JLabel strLabel = new JLabel("Strana:");
+            strLabel.setFont(font);
+            add(strLabel);
+            previewPage.setEditable(false);
+            setPreviewPage();
+            //Change listener za ComboBox
+            ComboChangedPageNo comboChangedPageNo = new ComboChangedPageNo(this);            
+            previewPage.addItemListener(comboChangedPageNo);
+            add(previewPage);            
+            
+            
+            
+            
+            prazno = new JLabel(); 
+            prazno.setPreferredSize(d);            
+            add(prazno);
+            
             tekuceUvecanje = new JLabel("100 %");
             tekuceUvecanje.setBorder(new SoftBevelBorder(BevelBorder.LOWERED));
             tekuceUvecanje.setFont(new Font(tekuceUvecanje.getName(), Font.PLAIN, 12));
@@ -125,7 +146,7 @@ public class PreviewMenuBar extends JPanel {
                 for (int i = 0; i < elementi.length; i++) procWidth.addItem(elementi[i]);
             } catch (Exception e) {} 
             //Change listener za ComboBox
-            ComboChange comboChange = new ComboChange(this);            
+            ComboChangePagePercent comboChange = new ComboChangePagePercent(this);            
             procWidth.addItemListener(comboChange);
             
             add(procWidth);
@@ -143,6 +164,11 @@ public class PreviewMenuBar extends JPanel {
             
             prviPut=false;
         }
+    }
+
+    public void setPreviewPage(){
+        previewPage.removeAllItems();
+        for (int i = 1; i <= formPrintPreview.pagesPripremi.getNumPages(); i++) previewPage.addItem(i);        
     }
 }
   

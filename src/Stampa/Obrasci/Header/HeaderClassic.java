@@ -10,9 +10,6 @@ import Stampa.Apstraktne.NijeTabela;
 import Stampa.Apstraktne.OblikStampe;
 import Stampa.NijeTabela.DefinisiPolje;
 import Stampa.NijeTabela.RacunajSirinuPolja;
-import Stampa.Podaci.Konstante;
-import Stampa.Podaci.PoljeZaStampu;
-import Stampa.PripremiPolje;
 import java.awt.print.PageFormat;
 import java.util.Vector;
 
