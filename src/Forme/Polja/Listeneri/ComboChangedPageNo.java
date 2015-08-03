@@ -18,18 +18,16 @@ import javax.swing.JMenuItem;
  */
 public class ComboChangedPageNo implements ItemListener {
     PreviewMenuBar previewMenuBar; 
-
+    String vred;
+    
     public ComboChangedPageNo(PreviewMenuBar previewMenuBar) {
         this.previewMenuBar = previewMenuBar;
     }
 
-    Object vrednost;
-    String vred;
     public void itemStateChanged(ItemEvent event) {
         if (event.getStateChange() == ItemEvent.SELECTED) {
-            vrednost = event.getItem();
             try {
-                try{vred = vrednost.toString();              
+                try{vred = event.getItem().toString();   
                 }catch(Exception e){}
                 if (previewMenuBar.formPrintPreview.pagesPripremi != null) {
                     previewMenuBar.formPrintPreview.pagesPripremi.ovaStrana(Integer.parseInt(vred));
