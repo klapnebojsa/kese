@@ -112,11 +112,6 @@ public class RedefinisiMedjuZbir {
                 }else{break;}
            }                    
         }         
-        
-        
-        
-        
-        
         return poljeZaStampu;
     }
     

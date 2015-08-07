@@ -61,7 +61,7 @@ public class NapuniCombo {
     }
     
     public String procPreviewWidth() {
-        String a = "@@80 %@@100 %@@150 %@@200 %@@250 %@@300 %@@350 %@@400 %@@450 %@@500 %@@page Width@@page Height";
+        String a = "@@80 %@@100 %@@150 %@@200 %@@250 %@@300 %@@350 %@@400 %@@450 %@@500 %@@800 %@@1000 %@@page Width@@page Height";
         return a;
     }
     

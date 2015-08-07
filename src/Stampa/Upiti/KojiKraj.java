@@ -7,7 +7,6 @@ package Stampa.Upiti;
 
 import Forme.FormPrintPreview;
 import Stampa.Apstraktne.NijeTabela;
-import Stampa.Obrasci.Footer.FooterClassic;
 import Stampa.Obrasci.Kraj.KrajClassic;
 import Stampa.Obrasci.Kraj.KrajPrazno;
 import java.awt.print.PageFormat;

@@ -7,7 +7,6 @@ package Stampa.Upiti;
 
 import Forme.FormPrintPreview;
 import Stampa.Apstraktne.NijeTabela;
-import Stampa.Obrasci.Header.HeaderClassic;
 import Stampa.Obrasci.Naslov.NaslovClassic;
 import java.awt.print.PageFormat;
 import java.util.Vector;

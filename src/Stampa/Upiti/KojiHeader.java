@@ -6,12 +6,8 @@
 package Stampa.Upiti;
 
 import Forme.FormPrintPreview;
-import Forme.Konstante.FunkcijskiTasteri;
 import Stampa.Apstraktne.NijeTabela;
-import Stampa.Apstraktne.OblikStampe;
 import Stampa.Obrasci.Header.HeaderClassic;
-import Stampa.Obrasci.Header.HeaderLine;
-import com.sun.corba.se.impl.orbutil.closure.Constant;
 import java.awt.print.PageFormat;
 import java.util.Vector;
 

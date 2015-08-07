@@ -22,7 +22,6 @@ import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import java.awt.event.KeyEvent;
 import java.awt.event.KeyListener;
-import java.awt.event.MouseEvent;
 import java.sql.ResultSetMetaData;
 import java.sql.SQLException;
 import java.text.ParseException;
@@ -32,7 +31,6 @@ import java.util.logging.Level;
 import java.util.logging.Logger;
 import javax.swing.BoxLayout;
 import javax.swing.JComboBox;
-import javax.swing.JFrame;
 import javax.swing.JLabel;
 import javax.swing.JScrollPane;
 import javax.swing.JTextField;
@@ -110,9 +108,7 @@ public class MojaTabela extends JPanel implements KeyListener, ActionListener {
         }
 
         // !!!!!!!!! PUNJENJE TABELE  !!!!!!!!!!!!!
-        //List el=null;
         i = 1;
-        //data = new Object[myDataList.size()][zaglTabele.length];
         data = new ArrayList();
         Formatiraj dpt = new Formatiraj();
         String[] alignment = new String[zaglTabele.length];
@@ -124,7 +120,6 @@ public class MojaTabela extends JPanel implements KeyListener, ActionListener {
                 dpt.setDecVar(decVar[j]);
                 dpt.setVrednostVar(element.get(j));
                 dpt.setKojaVrsta("Tabela");
-                //data[i-1][j] = dpt.formatirajVar();
                 boolean kljuc = false;
                 for (int k = 0; k <= kljucevi.length - 1; k++) {
                     if (k == j) {
