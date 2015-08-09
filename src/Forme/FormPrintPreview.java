@@ -7,8 +7,11 @@ package Forme;
 
 import Forme.Konstante.Mere;
 import Forme.Tabele.MojaTabela;
+import JUnitTestPackage.JUnitCitajVector;
+import JUnitTestPackage.JUnitUpisiVector;
 import Sistem.OsnovneDefinicije.RezolucijaEkrana;
 import Stampa.PagesPripremi;
+import Stampa.Podaci.PoljeZaStampu;
 import Stampa.PreviewMenuBar;
 import Stampa.Pripremi.PripremiFooter;
 import Stampa.Pripremi.PripremiHeader;
@@ -27,7 +30,21 @@ import java.awt.event.ActionListener;
 import java.awt.print.PageFormat;
 import java.awt.print.PrinterException;
 import java.awt.print.PrinterJob;
+import java.io.BufferedInputStream;
+import java.io.BufferedOutputStream;
+import java.io.BufferedReader;
+import java.io.BufferedWriter;
+import java.io.File;
+import java.io.FileInputStream;
+import java.io.FileOutputStream;
+import java.io.FileReader;
+import java.io.FileWriter;
 import java.io.IOException;
+import java.io.ObjectInputStream;
+import java.io.ObjectOutput;
+import java.io.ObjectOutputStream;
+import java.io.OutputStream;
+import java.io.PrintWriter;
 import java.util.List;
 import java.util.Vector;
 import java.util.logging.Level;
@@ -105,6 +122,17 @@ public class FormPrintPreview extends JFrame implements ActionListener{
         pagesPripremi = new PagesPripremi(headerLineVectorAll, naslovLineVectorAll, uvodLineVectorAll, 
                                     zakljucakLineVectorAll, krajLineVectorAll, footerLineVectorAll,
                                     tableLineVectorAll, tableHeaderLineVector, tableMedjuZbirVector, kojaPoljaMedjuZbirVector, pageFormat, this, mt1);
+        
+        ////////PODACI ZA JUNIT *******************************************************************   
+        //********** UPIS U JUnit FAJL
+        JUnitUpisiVector jUnitUpisiStampa = new JUnitUpisiVector();
+        jUnitUpisiStampa.Upisi(koZove.brokerDAO.a.ImeKlase(), pagesPripremi);
+        
+        /*//********** CITANJE IZ JUnit FAJLA             
+        JUnitCitajVector jUnitCitajStampa = new JUnitCitajVector();
+        Vector productsFromFile = new Vector((Vector) jUnitCitajStampa.Citaj(koZove.brokerDAO.a.ImeKlase()));*/                
+        //////// ************************************************************************************     
+        
         JScrollPane scrollP= new JScrollPane(pagesPripremi);
         scrollP.setWheelScrollingEnabled(true);
         scrollP.getVerticalScrollBar().setUnitIncrement(40);
@@ -162,8 +190,21 @@ public class FormPrintPreview extends JFrame implements ActionListener{
                 pagesPripremi.setTableMedjuZbirVector(tableMedjuZbirVector);
                 
                 if (pagesPripremi != null) pagesPripremi.pageInit(pageFormat);
+
+                ////////PODACI ZA JUNIT *******************************************************************     
+                //********** UPIS U JUnit FAJL
+                JUnitUpisiVector jUnitUpisiStampa = new JUnitUpisiVector();
+                jUnitUpisiStampa.Upisi(koZove.brokerDAO.a.ImeKlase(), pagesPripremi);
+
+               /*//********** CITANJE IZ JUnit FAJLA   
+               JUnitCitajVector jUnitCitajStampa = new JUnitCitajVector();
+               Vector productsFromFile = new Vector();
+               try {productsFromFile = jUnitCitajStampa.Citaj(koZove.brokerDAO.a.ImeKlase());
+               } catch (ClassNotFoundException ex) {Logger.getLogger(FormPrintPreview.class.getName()).log(Level.SEVERE, null, ex);}*/
+               //////// *************************************************************************************     
+               
                 //Redefinisanje izbora preview-a strane
-                stampaMenuBar.setPreviewPage();
+                stampaMenuBar.setPreviewPage();       
                 break;
             case "nextButton":      if (pagesPripremi != null) pagesPripremi.sledecaStrana();    break;
             case "previousButton":  if (pagesPripremi != null) pagesPripremi.prethodnaStrana();  break;                

@@ -36,7 +36,7 @@ import javax.swing.JComponent;
 public class PagesPripremi extends JComponent implements Printable { 
     public double p = 1;
     private int trenutniRbrStrane;
-    private Vector pageVector;   
+    public Vector pageVector;   
     private Vector tableLineVectorAll;
     private Vector headerLineVectorAll;
     private Vector naslovLineVectorAll;

@@ -7,6 +7,7 @@ package Stampa.Podaci;
 
 import java.awt.Font;
 import java.awt.font.TextAttribute;
+import java.io.Serializable;
 import java.util.HashMap;
 import java.util.Map;
 
@@ -14,7 +15,7 @@ import java.util.Map;
  *
  * @author Nebojsa
  */
-public class PoljeZaStampu {
+public class PoljeZaStampu implements Serializable{
     String vrednost;
     
     String alignment; 
