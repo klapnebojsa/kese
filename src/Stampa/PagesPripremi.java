@@ -24,6 +24,7 @@ import java.awt.print.Printable;
 import static java.awt.print.Printable.NO_SUCH_PAGE;
 import static java.awt.print.Printable.PAGE_EXISTS;
 import java.io.IOException;
+import java.io.Serializable;
 import java.util.Vector;
 import java.util.logging.Level;
 import java.util.logging.Logger;
@@ -33,7 +34,7 @@ import javax.swing.JComponent;
  *
  * @author Nebojsa
  */
-public class PagesPripremi extends JComponent implements Printable { 
+public class PagesPripremi extends JComponent implements Printable, Serializable{ 
     public double p = 1;
     private int trenutniRbrStrane;
     public Vector pageVector;   
@@ -117,6 +118,10 @@ public class PagesPripremi extends JComponent implements Printable {
                 repaint();  
             }
         });
+    }
+
+    public PagesPripremi() {
+        super();        
     }
     public void pageInit(PageFormat pageFormat) { 
         double medjY = formPrintPreview.stampaSetujPage.getMMedjY();

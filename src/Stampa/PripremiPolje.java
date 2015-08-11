@@ -72,12 +72,7 @@ public class PripremiPolje {
         FontMetric fontMetric = new FontMetric(font);
         widthTexta = fontMetric.getTextWidth(vrednost);
         poljeZaStampu.setWidthTexta(widthTexta);
-          
-        /*if (poljeZaStampu.getCijeJe() == "MedjuZbir"){
-            int gfd = 0;
-            gfd ++;
-        }*/
-        
+
         //Smanjivanje fonta i odsecanje viska ako je potrebno
         //Bitno da je pre metrike da smanjenje fonta udje u preracun visine reda
         if (poljeZaStampu.getSmanji()){

@@ -41,6 +41,8 @@ public class PageNacrtaj {
         medjX = pagesPripremi.formPrintPreview.stampaSetujPage.getMMedjX();
         naslov = pagesPripremi.formPrintPreview.koZove.getOpisForme();
     }
+    public PageNacrtaj(){
+    }
     public void Prikazi(Vector pageVector, Graphics g) throws Exception{
         //FontMetrics fm = g.getFontMetrics();
         visinaFonta=0;
@@ -109,7 +111,7 @@ public class PageNacrtaj {
                 int yDw = (int)(pY + (medjYDw*p + medjY*p + visinaFonta));
 
                 int yText = (int)(pY - fm.getMaxDescent() + ukVisina);
-                //if (yText<yDw)yText=yDw;
+
                 switch (lineVector.elementAt(iC).getAlignment()){          
                     case "Left":
                         g2D.drawString(cell, (int)(pX + pocetakPage.width + medjX*p), yText);
@@ -125,10 +127,7 @@ public class PageNacrtaj {
                 }
                 pocX += widthPolja;
                 
-                if (lineVector.elementAt(iC).getCijeJe()=="MedjuZbir"){
-                    int jjj=0;
-                    jjj++;
-                }
+                if (lineVector.elementAt(iC).getCijeJe()=="MedjuZbir"){}
                     
                 //Linije tabele
                 if (lineVector.elementAt(iC).getDownLine())  {g2D.setStroke(new BasicStroke(lineVector.elementAt(iC).getDownLineWeight()));  g2D.drawLine(xLf, yDw, xRg, yDw);}

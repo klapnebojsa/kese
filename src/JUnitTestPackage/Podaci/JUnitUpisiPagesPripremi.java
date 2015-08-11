@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package JUnitTestPackage;
+package JUnitTestPackage.Podaci;
 
 import Stampa.PagesPripremi;
 import java.io.BufferedOutputStream;
@@ -17,14 +17,17 @@ import java.io.OutputStream;
  *
  * @author Nebojsa
  */
-public class JUnitUpisiVector {
+public class JUnitUpisiPagesPripremi {
     public void Upisi(String imeKlase, PagesPripremi pagesPripremi){
         try{        
-            OutputStream file = new FileOutputStream( "JUnitTestPodaci/vectorPodaci" + imeKlase + ".txt" );
+            OutputStream file = new FileOutputStream( "JUnitTestPodaci/pagesPripremiPodaci" + imeKlase + ".txt" );
             OutputStream buffer = new BufferedOutputStream( file );
             ObjectOutput output = new ObjectOutputStream( buffer ); 
-            try{output.writeObject(pagesPripremi.pageVector);
+            try{output.writeObject(pagesPripremi);
             }finally{output.close();}
-        }catch(IOException ex){}        
-    }    
+        }catch(IOException ex){
+            /*int uu=0;
+            uu++;*/
+        }        
+    }
 }
