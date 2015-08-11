@@ -4,11 +4,6 @@
  * and open the template in the editor.
  */
 package Stampa;
-
-import org.junit.runner.JUnitCore;
-import org.junit.runner.Result;
-import org.junit.runner.notification.Failure;
-
 /**
  *
  * @author Nebojsa

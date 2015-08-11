@@ -20,7 +20,6 @@ Page: 1
          Polje-7:Visina fonta: 9.0
          Polje-8:Visina fonta: 9.0
          Polje-9:Visina fonta: 9.0
-         Polje-10:Visina fonta: 9.0
     Line-7:
          Polje-1:Visina fonta: 9.0
          Polje-2:Visina fonta: 9.0
@@ -31,7 +30,6 @@ Page: 1
          Polje-7:Visina fonta: 9.0
          Polje-8:Visina fonta: 9.0
          Polje-9:Visina fonta: 9.0
-         Polje-10:Visina fonta: 9.0
     Line-8:
          Polje-1:Visina fonta: 9.0
          Polje-2:Visina fonta: 9.0
@@ -42,7 +40,6 @@ Page: 1
          Polje-7:Visina fonta: 9.0
          Polje-8:Visina fonta: 9.0
          Polje-9:Visina fonta: 9.0
-         Polje-10:Visina fonta: 9.0
     Line-9:
          Polje-1:Visina fonta: 9.0
          Polje-2:Visina fonta: 9.0
@@ -53,7 +50,6 @@ Page: 1
          Polje-7:Visina fonta: 9.0
          Polje-8:Visina fonta: 9.0
          Polje-9:Visina fonta: 9.0
-         Polje-10:Visina fonta: 9.0
     Line-10:
          Polje-1:Visina fonta: 9.0
          Polje-2:Visina fonta: 9.0
@@ -64,14 +60,213 @@ Page: 1
          Polje-7:Visina fonta: 9.0
          Polje-8:Visina fonta: 9.0
          Polje-9:Visina fonta: 9.0
-         Polje-10:Visina fonta: 9.0
     Line-11:
-         Polje-1:Visina fonta: 6.0
+         Polje-1:Visina fonta: 9.0
+         Polje-2:Visina fonta: 9.0
+         Polje-3:Visina fonta: 9.0
+         Polje-4:Visina fonta: 9.0
+         Polje-5:Visina fonta: 9.0
+         Polje-6:Visina fonta: 9.0
+         Polje-7:Visina fonta: 9.0
+         Polje-8:Visina fonta: 9.0
+         Polje-9:Visina fonta: 9.0
     Line-12:
-         Polje-1:Visina fonta: 6.0
+         Polje-1:Visina fonta: 9.0
+         Polje-2:Visina fonta: 9.0
+         Polje-3:Visina fonta: 9.0
+         Polje-4:Visina fonta: 9.0
+         Polje-5:Visina fonta: 9.0
+         Polje-6:Visina fonta: 9.0
+         Polje-7:Visina fonta: 9.0
+         Polje-8:Visina fonta: 9.0
+         Polje-9:Visina fonta: 9.0
     Line-13:
-         Polje-1:Visina fonta: 6.0
+         Polje-1:Visina fonta: 9.0
+         Polje-2:Visina fonta: 9.0
+         Polje-3:Visina fonta: 9.0
+         Polje-4:Visina fonta: 9.0
+         Polje-5:Visina fonta: 9.0
+         Polje-6:Visina fonta: 9.0
+         Polje-7:Visina fonta: 9.0
+         Polje-8:Visina fonta: 9.0
+         Polje-9:Visina fonta: 9.0
     Line-14:
+         Polje-1:Visina fonta: 9.0
+         Polje-2:Visina fonta: 9.0
+         Polje-3:Visina fonta: 9.0
+         Polje-4:Visina fonta: 9.0
+         Polje-5:Visina fonta: 9.0
+         Polje-6:Visina fonta: 9.0
+         Polje-7:Visina fonta: 9.0
+         Polje-8:Visina fonta: 9.0
+         Polje-9:Visina fonta: 9.0
+    Line-15:
+         Polje-1:Visina fonta: 9.0
+         Polje-2:Visina fonta: 9.0
+         Polje-3:Visina fonta: 9.0
+         Polje-4:Visina fonta: 9.0
+         Polje-5:Visina fonta: 9.0
+         Polje-6:Visina fonta: 9.0
+         Polje-7:Visina fonta: 9.0
+         Polje-8:Visina fonta: 9.0
+         Polje-9:Visina fonta: 9.0
+    Line-16:
+         Polje-1:Visina fonta: 9.0
+         Polje-2:Visina fonta: 9.0
+         Polje-3:Visina fonta: 9.0
+         Polje-4:Visina fonta: 9.0
+         Polje-5:Visina fonta: 9.0
+         Polje-6:Visina fonta: 9.0
+         Polje-7:Visina fonta: 9.0
+         Polje-8:Visina fonta: 9.0
+         Polje-9:Visina fonta: 9.0
+    Line-17:
+         Polje-1:Visina fonta: 9.0
+         Polje-2:Visina fonta: 9.0
+         Polje-3:Visina fonta: 9.0
+         Polje-4:Visina fonta: 9.0
+         Polje-5:Visina fonta: 9.0
+         Polje-6:Visina fonta: 9.0
+         Polje-7:Visina fonta: 9.0
+         Polje-8:Visina fonta: 9.0
+         Polje-9:Visina fonta: 9.0
+    Line-18:
+         Polje-1:Visina fonta: 9.0
+         Polje-2:Visina fonta: 9.0
+         Polje-3:Visina fonta: 9.0
+         Polje-4:Visina fonta: 9.0
+         Polje-5:Visina fonta: 9.0
+         Polje-6:Visina fonta: 9.0
+         Polje-7:Visina fonta: 9.0
+         Polje-8:Visina fonta: 9.0
+         Polje-9:Visina fonta: 9.0
+    Line-19:
+         Polje-1:Visina fonta: 9.0
+         Polje-2:Visina fonta: 9.0
+         Polje-3:Visina fonta: 9.0
+         Polje-4:Visina fonta: 9.0
+         Polje-5:Visina fonta: 9.0
+         Polje-6:Visina fonta: 9.0
+         Polje-7:Visina fonta: 9.0
+         Polje-8:Visina fonta: 9.0
+         Polje-9:Visina fonta: 9.0
+    Line-20:
+         Polje-1:Visina fonta: 9.0
+         Polje-2:Visina fonta: 9.0
+         Polje-3:Visina fonta: 9.0
+         Polje-4:Visina fonta: 9.0
+         Polje-5:Visina fonta: 9.0
+         Polje-6:Visina fonta: 9.0
+         Polje-7:Visina fonta: 9.0
+         Polje-8:Visina fonta: 9.0
+         Polje-9:Visina fonta: 9.0
+    Line-21:
+         Polje-1:Visina fonta: 9.0
+         Polje-2:Visina fonta: 9.0
+         Polje-3:Visina fonta: 9.0
+         Polje-4:Visina fonta: 9.0
+         Polje-5:Visina fonta: 9.0
+         Polje-6:Visina fonta: 9.0
+         Polje-7:Visina fonta: 9.0
+         Polje-8:Visina fonta: 9.0
+         Polje-9:Visina fonta: 9.0
+    Line-22:
+         Polje-1:Visina fonta: 9.0
+         Polje-2:Visina fonta: 9.0
+         Polje-3:Visina fonta: 9.0
+         Polje-4:Visina fonta: 9.0
+         Polje-5:Visina fonta: 9.0
+         Polje-6:Visina fonta: 9.0
+         Polje-7:Visina fonta: 9.0
+         Polje-8:Visina fonta: 9.0
+         Polje-9:Visina fonta: 9.0
+    Line-23:
+         Polje-1:Visina fonta: 9.0
+         Polje-2:Visina fonta: 9.0
+         Polje-3:Visina fonta: 9.0
+         Polje-4:Visina fonta: 9.0
+         Polje-5:Visina fonta: 9.0
+         Polje-6:Visina fonta: 9.0
+         Polje-7:Visina fonta: 9.0
+         Polje-8:Visina fonta: 9.0
+         Polje-9:Visina fonta: 9.0
+    Line-24:
+         Polje-1:Visina fonta: 9.0
+         Polje-2:Visina fonta: 9.0
+         Polje-3:Visina fonta: 9.0
+         Polje-4:Visina fonta: 9.0
+         Polje-5:Visina fonta: 9.0
+         Polje-6:Visina fonta: 9.0
+         Polje-7:Visina fonta: 9.0
+         Polje-8:Visina fonta: 9.0
+         Polje-9:Visina fonta: 9.0
+    Line-25:
+         Polje-1:Visina fonta: 9.0
+         Polje-2:Visina fonta: 9.0
+         Polje-3:Visina fonta: 9.0
+         Polje-4:Visina fonta: 9.0
+         Polje-5:Visina fonta: 9.0
+         Polje-6:Visina fonta: 9.0
+         Polje-7:Visina fonta: 9.0
+         Polje-8:Visina fonta: 9.0
+         Polje-9:Visina fonta: 9.0
+    Line-26:
+         Polje-1:Visina fonta: 9.0
+         Polje-2:Visina fonta: 9.0
+         Polje-3:Visina fonta: 9.0
+         Polje-4:Visina fonta: 9.0
+         Polje-5:Visina fonta: 9.0
+         Polje-6:Visina fonta: 9.0
+         Polje-7:Visina fonta: 9.0
+         Polje-8:Visina fonta: 9.0
+         Polje-9:Visina fonta: 9.0
+    Line-27:
+         Polje-1:Visina fonta: 9.0
+         Polje-2:Visina fonta: 9.0
+         Polje-3:Visina fonta: 9.0
+         Polje-4:Visina fonta: 9.0
+         Polje-5:Visina fonta: 9.0
+         Polje-6:Visina fonta: 9.0
+         Polje-7:Visina fonta: 9.0
+         Polje-8:Visina fonta: 9.0
+         Polje-9:Visina fonta: 9.0
+    Line-28:
+         Polje-1:Visina fonta: 9.0
+         Polje-2:Visina fonta: 9.0
+         Polje-3:Visina fonta: 9.0
+         Polje-4:Visina fonta: 9.0
+         Polje-5:Visina fonta: 9.0
+         Polje-6:Visina fonta: 9.0
+         Polje-7:Visina fonta: 9.0
+         Polje-8:Visina fonta: 9.0
+         Polje-9:Visina fonta: 9.0
+    Line-29:
+         Polje-1:Visina fonta: 9.0
+         Polje-2:Visina fonta: 9.0
+         Polje-3:Visina fonta: 9.0
+         Polje-4:Visina fonta: 9.0
+         Polje-5:Visina fonta: 9.0
+         Polje-6:Visina fonta: 9.0
+         Polje-7:Visina fonta: 9.0
+         Polje-8:Visina fonta: 9.0
+         Polje-9:Visina fonta: 9.0
+    Line-30:
+         Polje-1:Visina fonta: 9.0
+         Polje-2:Visina fonta: 9.0
+         Polje-3:Visina fonta: 9.0
+         Polje-4:Visina fonta: 9.0
+         Polje-5:Visina fonta: 9.0
+         Polje-6:Visina fonta: 9.0
+         Polje-7:Visina fonta: 9.0
+         Polje-8:Visina fonta: 9.0
+         Polje-9:Visina fonta: 9.0
+    Line-31:
+         Polje-1:Visina fonta: 6.0
+    Line-32:
+         Polje-1:Visina fonta: 6.0
+    Line-33:
+         Polje-1:Visina fonta: 6.0
+    Line-34:
          Polje-1:Visina fonta: 6.0
 Page: 2
     Line-1:
@@ -93,7 +288,6 @@ Page: 2
          Polje-7:Visina fonta: 9.0
          Polje-8:Visina fonta: 9.0
          Polje-9:Visina fonta: 9.0
-         Polje-10:Visina fonta: 9.0
     Line-6:
          Polje-1:Visina fonta: 9.0
          Polje-2:Visina fonta: 9.0
@@ -104,7 +298,6 @@ Page: 2
          Polje-7:Visina fonta: 9.0
          Polje-8:Visina fonta: 9.0
          Polje-9:Visina fonta: 9.0
-         Polje-10:Visina fonta: 9.0
     Line-7:
          Polje-1:Visina fonta: 9.0
          Polje-2:Visina fonta: 9.0
@@ -115,7 +308,6 @@ Page: 2
          Polje-7:Visina fonta: 9.0
          Polje-8:Visina fonta: 9.0
          Polje-9:Visina fonta: 9.0
-         Polje-10:Visina fonta: 9.0
     Line-8:
          Polje-1:Visina fonta: 9.0
          Polje-2:Visina fonta: 9.0
@@ -126,7 +318,6 @@ Page: 2
          Polje-7:Visina fonta: 9.0
          Polje-8:Visina fonta: 9.0
          Polje-9:Visina fonta: 9.0
-         Polje-10:Visina fonta: 9.0
     Line-9:
          Polje-1:Visina fonta: 9.0
          Polje-2:Visina fonta: 9.0
@@ -137,7 +328,6 @@ Page: 2
          Polje-7:Visina fonta: 9.0
          Polje-8:Visina fonta: 9.0
          Polje-9:Visina fonta: 9.0
-         Polje-10:Visina fonta: 9.0
     Line-10:
          Polje-1:Visina fonta: 9.0
          Polje-2:Visina fonta: 9.0
@@ -148,14 +338,213 @@ Page: 2
          Polje-7:Visina fonta: 9.0
          Polje-8:Visina fonta: 9.0
          Polje-9:Visina fonta: 9.0
-         Polje-10:Visina fonta: 9.0
     Line-11:
-         Polje-1:Visina fonta: 6.0
+         Polje-1:Visina fonta: 9.0
+         Polje-2:Visina fonta: 9.0
+         Polje-3:Visina fonta: 9.0
+         Polje-4:Visina fonta: 9.0
+         Polje-5:Visina fonta: 9.0
+         Polje-6:Visina fonta: 9.0
+         Polje-7:Visina fonta: 9.0
+         Polje-8:Visina fonta: 9.0
+         Polje-9:Visina fonta: 9.0
     Line-12:
-         Polje-1:Visina fonta: 6.0
+         Polje-1:Visina fonta: 9.0
+         Polje-2:Visina fonta: 9.0
+         Polje-3:Visina fonta: 9.0
+         Polje-4:Visina fonta: 9.0
+         Polje-5:Visina fonta: 9.0
+         Polje-6:Visina fonta: 9.0
+         Polje-7:Visina fonta: 9.0
+         Polje-8:Visina fonta: 9.0
+         Polje-9:Visina fonta: 9.0
     Line-13:
-         Polje-1:Visina fonta: 6.0
+         Polje-1:Visina fonta: 9.0
+         Polje-2:Visina fonta: 9.0
+         Polje-3:Visina fonta: 9.0
+         Polje-4:Visina fonta: 9.0
+         Polje-5:Visina fonta: 9.0
+         Polje-6:Visina fonta: 9.0
+         Polje-7:Visina fonta: 9.0
+         Polje-8:Visina fonta: 9.0
+         Polje-9:Visina fonta: 9.0
     Line-14:
+         Polje-1:Visina fonta: 9.0
+         Polje-2:Visina fonta: 9.0
+         Polje-3:Visina fonta: 9.0
+         Polje-4:Visina fonta: 9.0
+         Polje-5:Visina fonta: 9.0
+         Polje-6:Visina fonta: 9.0
+         Polje-7:Visina fonta: 9.0
+         Polje-8:Visina fonta: 9.0
+         Polje-9:Visina fonta: 9.0
+    Line-15:
+         Polje-1:Visina fonta: 9.0
+         Polje-2:Visina fonta: 9.0
+         Polje-3:Visina fonta: 9.0
+         Polje-4:Visina fonta: 9.0
+         Polje-5:Visina fonta: 9.0
+         Polje-6:Visina fonta: 9.0
+         Polje-7:Visina fonta: 9.0
+         Polje-8:Visina fonta: 9.0
+         Polje-9:Visina fonta: 9.0
+    Line-16:
+         Polje-1:Visina fonta: 9.0
+         Polje-2:Visina fonta: 9.0
+         Polje-3:Visina fonta: 9.0
+         Polje-4:Visina fonta: 9.0
+         Polje-5:Visina fonta: 9.0
+         Polje-6:Visina fonta: 9.0
+         Polje-7:Visina fonta: 9.0
+         Polje-8:Visina fonta: 9.0
+         Polje-9:Visina fonta: 9.0
+    Line-17:
+         Polje-1:Visina fonta: 9.0
+         Polje-2:Visina fonta: 9.0
+         Polje-3:Visina fonta: 9.0
+         Polje-4:Visina fonta: 9.0
+         Polje-5:Visina fonta: 9.0
+         Polje-6:Visina fonta: 9.0
+         Polje-7:Visina fonta: 9.0
+         Polje-8:Visina fonta: 9.0
+         Polje-9:Visina fonta: 9.0
+    Line-18:
+         Polje-1:Visina fonta: 9.0
+         Polje-2:Visina fonta: 9.0
+         Polje-3:Visina fonta: 9.0
+         Polje-4:Visina fonta: 9.0
+         Polje-5:Visina fonta: 9.0
+         Polje-6:Visina fonta: 9.0
+         Polje-7:Visina fonta: 9.0
+         Polje-8:Visina fonta: 9.0
+         Polje-9:Visina fonta: 9.0
+    Line-19:
+         Polje-1:Visina fonta: 9.0
+         Polje-2:Visina fonta: 9.0
+         Polje-3:Visina fonta: 9.0
+         Polje-4:Visina fonta: 9.0
+         Polje-5:Visina fonta: 9.0
+         Polje-6:Visina fonta: 9.0
+         Polje-7:Visina fonta: 9.0
+         Polje-8:Visina fonta: 9.0
+         Polje-9:Visina fonta: 9.0
+    Line-20:
+         Polje-1:Visina fonta: 9.0
+         Polje-2:Visina fonta: 9.0
+         Polje-3:Visina fonta: 9.0
+         Polje-4:Visina fonta: 9.0
+         Polje-5:Visina fonta: 9.0
+         Polje-6:Visina fonta: 9.0
+         Polje-7:Visina fonta: 9.0
+         Polje-8:Visina fonta: 9.0
+         Polje-9:Visina fonta: 9.0
+    Line-21:
+         Polje-1:Visina fonta: 9.0
+         Polje-2:Visina fonta: 9.0
+         Polje-3:Visina fonta: 9.0
+         Polje-4:Visina fonta: 9.0
+         Polje-5:Visina fonta: 9.0
+         Polje-6:Visina fonta: 9.0
+         Polje-7:Visina fonta: 9.0
+         Polje-8:Visina fonta: 9.0
+         Polje-9:Visina fonta: 9.0
+    Line-22:
+         Polje-1:Visina fonta: 9.0
+         Polje-2:Visina fonta: 9.0
+         Polje-3:Visina fonta: 9.0
+         Polje-4:Visina fonta: 9.0
+         Polje-5:Visina fonta: 9.0
+         Polje-6:Visina fonta: 9.0
+         Polje-7:Visina fonta: 9.0
+         Polje-8:Visina fonta: 9.0
+         Polje-9:Visina fonta: 9.0
+    Line-23:
+         Polje-1:Visina fonta: 9.0
+         Polje-2:Visina fonta: 9.0
+         Polje-3:Visina fonta: 9.0
+         Polje-4:Visina fonta: 9.0
+         Polje-5:Visina fonta: 9.0
+         Polje-6:Visina fonta: 9.0
+         Polje-7:Visina fonta: 9.0
+         Polje-8:Visina fonta: 9.0
+         Polje-9:Visina fonta: 9.0
+    Line-24:
+         Polje-1:Visina fonta: 9.0
+         Polje-2:Visina fonta: 9.0
+         Polje-3:Visina fonta: 9.0
+         Polje-4:Visina fonta: 9.0
+         Polje-5:Visina fonta: 9.0
+         Polje-6:Visina fonta: 9.0
+         Polje-7:Visina fonta: 9.0
+         Polje-8:Visina fonta: 9.0
+         Polje-9:Visina fonta: 9.0
+    Line-25:
+         Polje-1:Visina fonta: 9.0
+         Polje-2:Visina fonta: 9.0
+         Polje-3:Visina fonta: 9.0
+         Polje-4:Visina fonta: 9.0
+         Polje-5:Visina fonta: 9.0
+         Polje-6:Visina fonta: 9.0
+         Polje-7:Visina fonta: 9.0
+         Polje-8:Visina fonta: 9.0
+         Polje-9:Visina fonta: 9.0
+    Line-26:
+         Polje-1:Visina fonta: 9.0
+         Polje-2:Visina fonta: 9.0
+         Polje-3:Visina fonta: 9.0
+         Polje-4:Visina fonta: 9.0
+         Polje-5:Visina fonta: 9.0
+         Polje-6:Visina fonta: 9.0
+         Polje-7:Visina fonta: 9.0
+         Polje-8:Visina fonta: 9.0
+         Polje-9:Visina fonta: 9.0
+    Line-27:
+         Polje-1:Visina fonta: 9.0
+         Polje-2:Visina fonta: 9.0
+         Polje-3:Visina fonta: 9.0
+         Polje-4:Visina fonta: 9.0
+         Polje-5:Visina fonta: 9.0
+         Polje-6:Visina fonta: 9.0
+         Polje-7:Visina fonta: 9.0
+         Polje-8:Visina fonta: 9.0
+         Polje-9:Visina fonta: 9.0
+    Line-28:
+         Polje-1:Visina fonta: 9.0
+         Polje-2:Visina fonta: 9.0
+         Polje-3:Visina fonta: 9.0
+         Polje-4:Visina fonta: 9.0
+         Polje-5:Visina fonta: 9.0
+         Polje-6:Visina fonta: 9.0
+         Polje-7:Visina fonta: 9.0
+         Polje-8:Visina fonta: 9.0
+         Polje-9:Visina fonta: 9.0
+    Line-29:
+         Polje-1:Visina fonta: 9.0
+         Polje-2:Visina fonta: 9.0
+         Polje-3:Visina fonta: 9.0
+         Polje-4:Visina fonta: 9.0
+         Polje-5:Visina fonta: 9.0
+         Polje-6:Visina fonta: 9.0
+         Polje-7:Visina fonta: 9.0
+         Polje-8:Visina fonta: 9.0
+         Polje-9:Visina fonta: 9.0
+    Line-30:
+         Polje-1:Visina fonta: 9.0
+         Polje-2:Visina fonta: 9.0
+         Polje-3:Visina fonta: 9.0
+         Polje-4:Visina fonta: 9.0
+         Polje-5:Visina fonta: 9.0
+         Polje-6:Visina fonta: 9.0
+         Polje-7:Visina fonta: 9.0
+         Polje-8:Visina fonta: 9.0
+         Polje-9:Visina fonta: 9.0
+    Line-31:
+         Polje-1:Visina fonta: 6.0
+    Line-32:
+         Polje-1:Visina fonta: 6.0
+    Line-33:
+         Polje-1:Visina fonta: 6.0
+    Line-34:
          Polje-1:Visina fonta: 6.0
 Page: 3
     Line-1:
@@ -177,7 +566,6 @@ Page: 3
          Polje-7:Visina fonta: 9.0
          Polje-8:Visina fonta: 9.0
          Polje-9:Visina fonta: 9.0
-         Polje-10:Visina fonta: 9.0
     Line-6:
          Polje-1:Visina fonta: 9.0
          Polje-2:Visina fonta: 9.0
@@ -188,7 +576,6 @@ Page: 3
          Polje-7:Visina fonta: 9.0
          Polje-8:Visina fonta: 9.0
          Polje-9:Visina fonta: 9.0
-         Polje-10:Visina fonta: 9.0
     Line-7:
          Polje-1:Visina fonta: 9.0
          Polje-2:Visina fonta: 9.0
@@ -199,7 +586,6 @@ Page: 3
          Polje-7:Visina fonta: 9.0
          Polje-8:Visina fonta: 9.0
          Polje-9:Visina fonta: 9.0
-         Polje-10:Visina fonta: 9.0
     Line-8:
          Polje-1:Visina fonta: 9.0
          Polje-2:Visina fonta: 9.0
@@ -210,7 +596,6 @@ Page: 3
          Polje-7:Visina fonta: 9.0
          Polje-8:Visina fonta: 9.0
          Polje-9:Visina fonta: 9.0
-         Polje-10:Visina fonta: 9.0
     Line-9:
          Polje-1:Visina fonta: 9.0
          Polje-2:Visina fonta: 9.0
@@ -221,7 +606,6 @@ Page: 3
          Polje-7:Visina fonta: 9.0
          Polje-8:Visina fonta: 9.0
          Polje-9:Visina fonta: 9.0
-         Polje-10:Visina fonta: 9.0
     Line-10:
          Polje-1:Visina fonta: 9.0
          Polje-2:Visina fonta: 9.0
@@ -232,14 +616,213 @@ Page: 3
          Polje-7:Visina fonta: 9.0
          Polje-8:Visina fonta: 9.0
          Polje-9:Visina fonta: 9.0
-         Polje-10:Visina fonta: 9.0
     Line-11:
-         Polje-1:Visina fonta: 6.0
+         Polje-1:Visina fonta: 9.0
+         Polje-2:Visina fonta: 9.0
+         Polje-3:Visina fonta: 9.0
+         Polje-4:Visina fonta: 9.0
+         Polje-5:Visina fonta: 9.0
+         Polje-6:Visina fonta: 9.0
+         Polje-7:Visina fonta: 9.0
+         Polje-8:Visina fonta: 9.0
+         Polje-9:Visina fonta: 9.0
     Line-12:
-         Polje-1:Visina fonta: 6.0
+         Polje-1:Visina fonta: 9.0
+         Polje-2:Visina fonta: 9.0
+         Polje-3:Visina fonta: 9.0
+         Polje-4:Visina fonta: 9.0
+         Polje-5:Visina fonta: 9.0
+         Polje-6:Visina fonta: 9.0
+         Polje-7:Visina fonta: 9.0
+         Polje-8:Visina fonta: 9.0
+         Polje-9:Visina fonta: 9.0
     Line-13:
-         Polje-1:Visina fonta: 6.0
+         Polje-1:Visina fonta: 9.0
+         Polje-2:Visina fonta: 9.0
+         Polje-3:Visina fonta: 9.0
+         Polje-4:Visina fonta: 9.0
+         Polje-5:Visina fonta: 9.0
+         Polje-6:Visina fonta: 9.0
+         Polje-7:Visina fonta: 9.0
+         Polje-8:Visina fonta: 9.0
+         Polje-9:Visina fonta: 9.0
     Line-14:
+         Polje-1:Visina fonta: 9.0
+         Polje-2:Visina fonta: 9.0
+         Polje-3:Visina fonta: 9.0
+         Polje-4:Visina fonta: 9.0
+         Polje-5:Visina fonta: 9.0
+         Polje-6:Visina fonta: 9.0
+         Polje-7:Visina fonta: 9.0
+         Polje-8:Visina fonta: 9.0
+         Polje-9:Visina fonta: 9.0
+    Line-15:
+         Polje-1:Visina fonta: 9.0
+         Polje-2:Visina fonta: 9.0
+         Polje-3:Visina fonta: 9.0
+         Polje-4:Visina fonta: 9.0
+         Polje-5:Visina fonta: 9.0
+         Polje-6:Visina fonta: 9.0
+         Polje-7:Visina fonta: 9.0
+         Polje-8:Visina fonta: 9.0
+         Polje-9:Visina fonta: 9.0
+    Line-16:
+         Polje-1:Visina fonta: 9.0
+         Polje-2:Visina fonta: 9.0
+         Polje-3:Visina fonta: 9.0
+         Polje-4:Visina fonta: 9.0
+         Polje-5:Visina fonta: 9.0
+         Polje-6:Visina fonta: 9.0
+         Polje-7:Visina fonta: 9.0
+         Polje-8:Visina fonta: 9.0
+         Polje-9:Visina fonta: 9.0
+    Line-17:
+         Polje-1:Visina fonta: 9.0
+         Polje-2:Visina fonta: 9.0
+         Polje-3:Visina fonta: 9.0
+         Polje-4:Visina fonta: 9.0
+         Polje-5:Visina fonta: 9.0
+         Polje-6:Visina fonta: 9.0
+         Polje-7:Visina fonta: 9.0
+         Polje-8:Visina fonta: 9.0
+         Polje-9:Visina fonta: 9.0
+    Line-18:
+         Polje-1:Visina fonta: 9.0
+         Polje-2:Visina fonta: 9.0
+         Polje-3:Visina fonta: 9.0
+         Polje-4:Visina fonta: 9.0
+         Polje-5:Visina fonta: 9.0
+         Polje-6:Visina fonta: 9.0
+         Polje-7:Visina fonta: 9.0
+         Polje-8:Visina fonta: 9.0
+         Polje-9:Visina fonta: 9.0
+    Line-19:
+         Polje-1:Visina fonta: 9.0
+         Polje-2:Visina fonta: 9.0
+         Polje-3:Visina fonta: 9.0
+         Polje-4:Visina fonta: 9.0
+         Polje-5:Visina fonta: 9.0
+         Polje-6:Visina fonta: 9.0
+         Polje-7:Visina fonta: 9.0
+         Polje-8:Visina fonta: 9.0
+         Polje-9:Visina fonta: 9.0
+    Line-20:
+         Polje-1:Visina fonta: 9.0
+         Polje-2:Visina fonta: 9.0
+         Polje-3:Visina fonta: 9.0
+         Polje-4:Visina fonta: 9.0
+         Polje-5:Visina fonta: 9.0
+         Polje-6:Visina fonta: 9.0
+         Polje-7:Visina fonta: 9.0
+         Polje-8:Visina fonta: 9.0
+         Polje-9:Visina fonta: 9.0
+    Line-21:
+         Polje-1:Visina fonta: 9.0
+         Polje-2:Visina fonta: 9.0
+         Polje-3:Visina fonta: 9.0
+         Polje-4:Visina fonta: 9.0
+         Polje-5:Visina fonta: 9.0
+         Polje-6:Visina fonta: 9.0
+         Polje-7:Visina fonta: 9.0
+         Polje-8:Visina fonta: 9.0
+         Polje-9:Visina fonta: 9.0
+    Line-22:
+         Polje-1:Visina fonta: 9.0
+         Polje-2:Visina fonta: 9.0
+         Polje-3:Visina fonta: 9.0
+         Polje-4:Visina fonta: 9.0
+         Polje-5:Visina fonta: 9.0
+         Polje-6:Visina fonta: 9.0
+         Polje-7:Visina fonta: 9.0
+         Polje-8:Visina fonta: 9.0
+         Polje-9:Visina fonta: 9.0
+    Line-23:
+         Polje-1:Visina fonta: 9.0
+         Polje-2:Visina fonta: 9.0
+         Polje-3:Visina fonta: 9.0
+         Polje-4:Visina fonta: 9.0
+         Polje-5:Visina fonta: 9.0
+         Polje-6:Visina fonta: 9.0
+         Polje-7:Visina fonta: 9.0
+         Polje-8:Visina fonta: 9.0
+         Polje-9:Visina fonta: 9.0
+    Line-24:
+         Polje-1:Visina fonta: 9.0
+         Polje-2:Visina fonta: 9.0
+         Polje-3:Visina fonta: 9.0
+         Polje-4:Visina fonta: 9.0
+         Polje-5:Visina fonta: 9.0
+         Polje-6:Visina fonta: 9.0
+         Polje-7:Visina fonta: 9.0
+         Polje-8:Visina fonta: 9.0
+         Polje-9:Visina fonta: 9.0
+    Line-25:
+         Polje-1:Visina fonta: 9.0
+         Polje-2:Visina fonta: 9.0
+         Polje-3:Visina fonta: 9.0
+         Polje-4:Visina fonta: 9.0
+         Polje-5:Visina fonta: 9.0
+         Polje-6:Visina fonta: 9.0
+         Polje-7:Visina fonta: 9.0
+         Polje-8:Visina fonta: 9.0
+         Polje-9:Visina fonta: 9.0
+    Line-26:
+         Polje-1:Visina fonta: 9.0
+         Polje-2:Visina fonta: 9.0
+         Polje-3:Visina fonta: 9.0
+         Polje-4:Visina fonta: 9.0
+         Polje-5:Visina fonta: 9.0
+         Polje-6:Visina fonta: 9.0
+         Polje-7:Visina fonta: 9.0
+         Polje-8:Visina fonta: 9.0
+         Polje-9:Visina fonta: 9.0
+    Line-27:
+         Polje-1:Visina fonta: 9.0
+         Polje-2:Visina fonta: 9.0
+         Polje-3:Visina fonta: 9.0
+         Polje-4:Visina fonta: 9.0
+         Polje-5:Visina fonta: 9.0
+         Polje-6:Visina fonta: 9.0
+         Polje-7:Visina fonta: 9.0
+         Polje-8:Visina fonta: 9.0
+         Polje-9:Visina fonta: 9.0
+    Line-28:
+         Polje-1:Visina fonta: 9.0
+         Polje-2:Visina fonta: 9.0
+         Polje-3:Visina fonta: 9.0
+         Polje-4:Visina fonta: 9.0
+         Polje-5:Visina fonta: 9.0
+         Polje-6:Visina fonta: 9.0
+         Polje-7:Visina fonta: 9.0
+         Polje-8:Visina fonta: 9.0
+         Polje-9:Visina fonta: 9.0
+    Line-29:
+         Polje-1:Visina fonta: 9.0
+         Polje-2:Visina fonta: 9.0
+         Polje-3:Visina fonta: 9.0
+         Polje-4:Visina fonta: 9.0
+         Polje-5:Visina fonta: 9.0
+         Polje-6:Visina fonta: 9.0
+         Polje-7:Visina fonta: 9.0
+         Polje-8:Visina fonta: 9.0
+         Polje-9:Visina fonta: 9.0
+    Line-30:
+         Polje-1:Visina fonta: 9.0
+         Polje-2:Visina fonta: 9.0
+         Polje-3:Visina fonta: 9.0
+         Polje-4:Visina fonta: 9.0
+         Polje-5:Visina fonta: 9.0
+         Polje-6:Visina fonta: 9.0
+         Polje-7:Visina fonta: 9.0
+         Polje-8:Visina fonta: 9.0
+         Polje-9:Visina fonta: 9.0
+    Line-31:
+         Polje-1:Visina fonta: 6.0
+    Line-32:
+         Polje-1:Visina fonta: 6.0
+    Line-33:
+         Polje-1:Visina fonta: 6.0
+    Line-34:
          Polje-1:Visina fonta: 6.0
 Page: 4
     Line-1:
@@ -261,7 +844,6 @@ Page: 4
          Polje-7:Visina fonta: 9.0
          Polje-8:Visina fonta: 9.0
          Polje-9:Visina fonta: 9.0
-         Polje-10:Visina fonta: 9.0
     Line-6:
          Polje-1:Visina fonta: 9.0
          Polje-2:Visina fonta: 9.0
@@ -272,7 +854,6 @@ Page: 4
          Polje-7:Visina fonta: 9.0
          Polje-8:Visina fonta: 9.0
          Polje-9:Visina fonta: 9.0
-         Polje-10:Visina fonta: 9.0
     Line-7:
          Polje-1:Visina fonta: 9.0
          Polje-2:Visina fonta: 9.0
@@ -283,7 +864,6 @@ Page: 4
          Polje-7:Visina fonta: 9.0
          Polje-8:Visina fonta: 9.0
          Polje-9:Visina fonta: 9.0
-         Polje-10:Visina fonta: 9.0
     Line-8:
          Polje-1:Visina fonta: 9.0
          Polje-2:Visina fonta: 9.0
@@ -294,7 +874,6 @@ Page: 4
          Polje-7:Visina fonta: 9.0
          Polje-8:Visina fonta: 9.0
          Polje-9:Visina fonta: 9.0
-         Polje-10:Visina fonta: 9.0
     Line-9:
          Polje-1:Visina fonta: 9.0
          Polje-2:Visina fonta: 9.0
@@ -305,7 +884,6 @@ Page: 4
          Polje-7:Visina fonta: 9.0
          Polje-8:Visina fonta: 9.0
          Polje-9:Visina fonta: 9.0
-         Polje-10:Visina fonta: 9.0
     Line-10:
          Polje-1:Visina fonta: 9.0
          Polje-2:Visina fonta: 9.0
@@ -316,14 +894,213 @@ Page: 4
          Polje-7:Visina fonta: 9.0
          Polje-8:Visina fonta: 9.0
          Polje-9:Visina fonta: 9.0
-         Polje-10:Visina fonta: 9.0
     Line-11:
-         Polje-1:Visina fonta: 6.0
+         Polje-1:Visina fonta: 9.0
+         Polje-2:Visina fonta: 9.0
+         Polje-3:Visina fonta: 9.0
+         Polje-4:Visina fonta: 9.0
+         Polje-5:Visina fonta: 9.0
+         Polje-6:Visina fonta: 9.0
+         Polje-7:Visina fonta: 9.0
+         Polje-8:Visina fonta: 9.0
+         Polje-9:Visina fonta: 9.0
     Line-12:
-         Polje-1:Visina fonta: 6.0
+         Polje-1:Visina fonta: 9.0
+         Polje-2:Visina fonta: 9.0
+         Polje-3:Visina fonta: 9.0
+         Polje-4:Visina fonta: 9.0
+         Polje-5:Visina fonta: 9.0
+         Polje-6:Visina fonta: 9.0
+         Polje-7:Visina fonta: 9.0
+         Polje-8:Visina fonta: 9.0
+         Polje-9:Visina fonta: 9.0
     Line-13:
-         Polje-1:Visina fonta: 6.0
+         Polje-1:Visina fonta: 9.0
+         Polje-2:Visina fonta: 9.0
+         Polje-3:Visina fonta: 9.0
+         Polje-4:Visina fonta: 9.0
+         Polje-5:Visina fonta: 9.0
+         Polje-6:Visina fonta: 9.0
+         Polje-7:Visina fonta: 9.0
+         Polje-8:Visina fonta: 9.0
+         Polje-9:Visina fonta: 9.0
     Line-14:
+         Polje-1:Visina fonta: 9.0
+         Polje-2:Visina fonta: 9.0
+         Polje-3:Visina fonta: 9.0
+         Polje-4:Visina fonta: 9.0
+         Polje-5:Visina fonta: 9.0
+         Polje-6:Visina fonta: 9.0
+         Polje-7:Visina fonta: 9.0
+         Polje-8:Visina fonta: 9.0
+         Polje-9:Visina fonta: 9.0
+    Line-15:
+         Polje-1:Visina fonta: 9.0
+         Polje-2:Visina fonta: 9.0
+         Polje-3:Visina fonta: 9.0
+         Polje-4:Visina fonta: 9.0
+         Polje-5:Visina fonta: 9.0
+         Polje-6:Visina fonta: 9.0
+         Polje-7:Visina fonta: 9.0
+         Polje-8:Visina fonta: 9.0
+         Polje-9:Visina fonta: 9.0
+    Line-16:
+         Polje-1:Visina fonta: 9.0
+         Polje-2:Visina fonta: 9.0
+         Polje-3:Visina fonta: 9.0
+         Polje-4:Visina fonta: 9.0
+         Polje-5:Visina fonta: 9.0
+         Polje-6:Visina fonta: 9.0
+         Polje-7:Visina fonta: 9.0
+         Polje-8:Visina fonta: 9.0
+         Polje-9:Visina fonta: 9.0
+    Line-17:
+         Polje-1:Visina fonta: 9.0
+         Polje-2:Visina fonta: 9.0
+         Polje-3:Visina fonta: 9.0
+         Polje-4:Visina fonta: 9.0
+         Polje-5:Visina fonta: 9.0
+         Polje-6:Visina fonta: 9.0
+         Polje-7:Visina fonta: 9.0
+         Polje-8:Visina fonta: 9.0
+         Polje-9:Visina fonta: 9.0
+    Line-18:
+         Polje-1:Visina fonta: 9.0
+         Polje-2:Visina fonta: 9.0
+         Polje-3:Visina fonta: 9.0
+         Polje-4:Visina fonta: 9.0
+         Polje-5:Visina fonta: 9.0
+         Polje-6:Visina fonta: 9.0
+         Polje-7:Visina fonta: 9.0
+         Polje-8:Visina fonta: 9.0
+         Polje-9:Visina fonta: 9.0
+    Line-19:
+         Polje-1:Visina fonta: 9.0
+         Polje-2:Visina fonta: 9.0
+         Polje-3:Visina fonta: 9.0
+         Polje-4:Visina fonta: 9.0
+         Polje-5:Visina fonta: 9.0
+         Polje-6:Visina fonta: 9.0
+         Polje-7:Visina fonta: 9.0
+         Polje-8:Visina fonta: 9.0
+         Polje-9:Visina fonta: 9.0
+    Line-20:
+         Polje-1:Visina fonta: 9.0
+         Polje-2:Visina fonta: 9.0
+         Polje-3:Visina fonta: 9.0
+         Polje-4:Visina fonta: 9.0
+         Polje-5:Visina fonta: 9.0
+         Polje-6:Visina fonta: 9.0
+         Polje-7:Visina fonta: 9.0
+         Polje-8:Visina fonta: 9.0
+         Polje-9:Visina fonta: 9.0
+    Line-21:
+         Polje-1:Visina fonta: 9.0
+         Polje-2:Visina fonta: 9.0
+         Polje-3:Visina fonta: 9.0
+         Polje-4:Visina fonta: 9.0
+         Polje-5:Visina fonta: 9.0
+         Polje-6:Visina fonta: 9.0
+         Polje-7:Visina fonta: 9.0
+         Polje-8:Visina fonta: 9.0
+         Polje-9:Visina fonta: 9.0
+    Line-22:
+         Polje-1:Visina fonta: 9.0
+         Polje-2:Visina fonta: 9.0
+         Polje-3:Visina fonta: 9.0
+         Polje-4:Visina fonta: 9.0
+         Polje-5:Visina fonta: 9.0
+         Polje-6:Visina fonta: 9.0
+         Polje-7:Visina fonta: 9.0
+         Polje-8:Visina fonta: 9.0
+         Polje-9:Visina fonta: 9.0
+    Line-23:
+         Polje-1:Visina fonta: 9.0
+         Polje-2:Visina fonta: 9.0
+         Polje-3:Visina fonta: 9.0
+         Polje-4:Visina fonta: 9.0
+         Polje-5:Visina fonta: 9.0
+         Polje-6:Visina fonta: 9.0
+         Polje-7:Visina fonta: 9.0
+         Polje-8:Visina fonta: 9.0
+         Polje-9:Visina fonta: 9.0
+    Line-24:
+         Polje-1:Visina fonta: 9.0
+         Polje-2:Visina fonta: 9.0
+         Polje-3:Visina fonta: 9.0
+         Polje-4:Visina fonta: 9.0
+         Polje-5:Visina fonta: 9.0
+         Polje-6:Visina fonta: 9.0
+         Polje-7:Visina fonta: 9.0
+         Polje-8:Visina fonta: 9.0
+         Polje-9:Visina fonta: 9.0
+    Line-25:
+         Polje-1:Visina fonta: 9.0
+         Polje-2:Visina fonta: 9.0
+         Polje-3:Visina fonta: 9.0
+         Polje-4:Visina fonta: 9.0
+         Polje-5:Visina fonta: 9.0
+         Polje-6:Visina fonta: 9.0
+         Polje-7:Visina fonta: 9.0
+         Polje-8:Visina fonta: 9.0
+         Polje-9:Visina fonta: 9.0
+    Line-26:
+         Polje-1:Visina fonta: 9.0
+         Polje-2:Visina fonta: 9.0
+         Polje-3:Visina fonta: 9.0
+         Polje-4:Visina fonta: 9.0
+         Polje-5:Visina fonta: 9.0
+         Polje-6:Visina fonta: 9.0
+         Polje-7:Visina fonta: 9.0
+         Polje-8:Visina fonta: 9.0
+         Polje-9:Visina fonta: 9.0
+    Line-27:
+         Polje-1:Visina fonta: 9.0
+         Polje-2:Visina fonta: 9.0
+         Polje-3:Visina fonta: 9.0
+         Polje-4:Visina fonta: 9.0
+         Polje-5:Visina fonta: 9.0
+         Polje-6:Visina fonta: 9.0
+         Polje-7:Visina fonta: 9.0
+         Polje-8:Visina fonta: 9.0
+         Polje-9:Visina fonta: 9.0
+    Line-28:
+         Polje-1:Visina fonta: 9.0
+         Polje-2:Visina fonta: 9.0
+         Polje-3:Visina fonta: 9.0
+         Polje-4:Visina fonta: 9.0
+         Polje-5:Visina fonta: 9.0
+         Polje-6:Visina fonta: 9.0
+         Polje-7:Visina fonta: 9.0
+         Polje-8:Visina fonta: 9.0
+         Polje-9:Visina fonta: 9.0
+    Line-29:
+         Polje-1:Visina fonta: 9.0
+         Polje-2:Visina fonta: 9.0
+         Polje-3:Visina fonta: 9.0
+         Polje-4:Visina fonta: 9.0
+         Polje-5:Visina fonta: 9.0
+         Polje-6:Visina fonta: 9.0
+         Polje-7:Visina fonta: 9.0
+         Polje-8:Visina fonta: 9.0
+         Polje-9:Visina fonta: 9.0
+    Line-30:
+         Polje-1:Visina fonta: 9.0
+         Polje-2:Visina fonta: 9.0
+         Polje-3:Visina fonta: 9.0
+         Polje-4:Visina fonta: 9.0
+         Polje-5:Visina fonta: 9.0
+         Polje-6:Visina fonta: 9.0
+         Polje-7:Visina fonta: 9.0
+         Polje-8:Visina fonta: 9.0
+         Polje-9:Visina fonta: 9.0
+    Line-31:
+         Polje-1:Visina fonta: 6.0
+    Line-32:
+         Polje-1:Visina fonta: 6.0
+    Line-33:
+         Polje-1:Visina fonta: 6.0
+    Line-34:
          Polje-1:Visina fonta: 6.0
 Page: 5
     Line-1:
@@ -345,7 +1122,6 @@ Page: 5
          Polje-7:Visina fonta: 9.0
          Polje-8:Visina fonta: 9.0
          Polje-9:Visina fonta: 9.0
-         Polje-10:Visina fonta: 9.0
     Line-6:
          Polje-1:Visina fonta: 9.0
          Polje-2:Visina fonta: 9.0
@@ -356,7 +1132,6 @@ Page: 5
          Polje-7:Visina fonta: 9.0
          Polje-8:Visina fonta: 9.0
          Polje-9:Visina fonta: 9.0
-         Polje-10:Visina fonta: 9.0
     Line-7:
          Polje-1:Visina fonta: 9.0
          Polje-2:Visina fonta: 9.0
@@ -367,7 +1142,6 @@ Page: 5
          Polje-7:Visina fonta: 9.0
          Polje-8:Visina fonta: 9.0
          Polje-9:Visina fonta: 9.0
-         Polje-10:Visina fonta: 9.0
     Line-8:
          Polje-1:Visina fonta: 9.0
          Polje-2:Visina fonta: 9.0
@@ -378,7 +1152,6 @@ Page: 5
          Polje-7:Visina fonta: 9.0
          Polje-8:Visina fonta: 9.0
          Polje-9:Visina fonta: 9.0
-         Polje-10:Visina fonta: 9.0
     Line-9:
          Polje-1:Visina fonta: 9.0
          Polje-2:Visina fonta: 9.0
@@ -389,7 +1162,6 @@ Page: 5
          Polje-7:Visina fonta: 9.0
          Polje-8:Visina fonta: 9.0
          Polje-9:Visina fonta: 9.0
-         Polje-10:Visina fonta: 9.0
     Line-10:
          Polje-1:Visina fonta: 9.0
          Polje-2:Visina fonta: 9.0
@@ -400,14 +1172,213 @@ Page: 5
          Polje-7:Visina fonta: 9.0
          Polje-8:Visina fonta: 9.0
          Polje-9:Visina fonta: 9.0
-         Polje-10:Visina fonta: 9.0
     Line-11:
-         Polje-1:Visina fonta: 6.0
+         Polje-1:Visina fonta: 9.0
+         Polje-2:Visina fonta: 9.0
+         Polje-3:Visina fonta: 9.0
+         Polje-4:Visina fonta: 9.0
+         Polje-5:Visina fonta: 9.0
+         Polje-6:Visina fonta: 9.0
+         Polje-7:Visina fonta: 9.0
+         Polje-8:Visina fonta: 9.0
+         Polje-9:Visina fonta: 9.0
     Line-12:
-         Polje-1:Visina fonta: 6.0
+         Polje-1:Visina fonta: 9.0
+         Polje-2:Visina fonta: 9.0
+         Polje-3:Visina fonta: 9.0
+         Polje-4:Visina fonta: 9.0
+         Polje-5:Visina fonta: 9.0
+         Polje-6:Visina fonta: 9.0
+         Polje-7:Visina fonta: 9.0
+         Polje-8:Visina fonta: 9.0
+         Polje-9:Visina fonta: 9.0
     Line-13:
-         Polje-1:Visina fonta: 6.0
+         Polje-1:Visina fonta: 9.0
+         Polje-2:Visina fonta: 9.0
+         Polje-3:Visina fonta: 9.0
+         Polje-4:Visina fonta: 9.0
+         Polje-5:Visina fonta: 9.0
+         Polje-6:Visina fonta: 9.0
+         Polje-7:Visina fonta: 9.0
+         Polje-8:Visina fonta: 9.0
+         Polje-9:Visina fonta: 9.0
     Line-14:
+         Polje-1:Visina fonta: 9.0
+         Polje-2:Visina fonta: 9.0
+         Polje-3:Visina fonta: 9.0
+         Polje-4:Visina fonta: 9.0
+         Polje-5:Visina fonta: 9.0
+         Polje-6:Visina fonta: 9.0
+         Polje-7:Visina fonta: 9.0
+         Polje-8:Visina fonta: 9.0
+         Polje-9:Visina fonta: 9.0
+    Line-15:
+         Polje-1:Visina fonta: 9.0
+         Polje-2:Visina fonta: 9.0
+         Polje-3:Visina fonta: 9.0
+         Polje-4:Visina fonta: 9.0
+         Polje-5:Visina fonta: 9.0
+         Polje-6:Visina fonta: 9.0
+         Polje-7:Visina fonta: 9.0
+         Polje-8:Visina fonta: 9.0
+         Polje-9:Visina fonta: 9.0
+    Line-16:
+         Polje-1:Visina fonta: 9.0
+         Polje-2:Visina fonta: 9.0
+         Polje-3:Visina fonta: 9.0
+         Polje-4:Visina fonta: 9.0
+         Polje-5:Visina fonta: 9.0
+         Polje-6:Visina fonta: 9.0
+         Polje-7:Visina fonta: 9.0
+         Polje-8:Visina fonta: 9.0
+         Polje-9:Visina fonta: 9.0
+    Line-17:
+         Polje-1:Visina fonta: 9.0
+         Polje-2:Visina fonta: 9.0
+         Polje-3:Visina fonta: 9.0
+         Polje-4:Visina fonta: 9.0
+         Polje-5:Visina fonta: 9.0
+         Polje-6:Visina fonta: 9.0
+         Polje-7:Visina fonta: 9.0
+         Polje-8:Visina fonta: 9.0
+         Polje-9:Visina fonta: 9.0
+    Line-18:
+         Polje-1:Visina fonta: 9.0
+         Polje-2:Visina fonta: 9.0
+         Polje-3:Visina fonta: 9.0
+         Polje-4:Visina fonta: 9.0
+         Polje-5:Visina fonta: 9.0
+         Polje-6:Visina fonta: 9.0
+         Polje-7:Visina fonta: 9.0
+         Polje-8:Visina fonta: 9.0
+         Polje-9:Visina fonta: 9.0
+    Line-19:
+         Polje-1:Visina fonta: 9.0
+         Polje-2:Visina fonta: 9.0
+         Polje-3:Visina fonta: 9.0
+         Polje-4:Visina fonta: 9.0
+         Polje-5:Visina fonta: 9.0
+         Polje-6:Visina fonta: 9.0
+         Polje-7:Visina fonta: 9.0
+         Polje-8:Visina fonta: 9.0
+         Polje-9:Visina fonta: 9.0
+    Line-20:
+         Polje-1:Visina fonta: 9.0
+         Polje-2:Visina fonta: 9.0
+         Polje-3:Visina fonta: 9.0
+         Polje-4:Visina fonta: 9.0
+         Polje-5:Visina fonta: 9.0
+         Polje-6:Visina fonta: 9.0
+         Polje-7:Visina fonta: 9.0
+         Polje-8:Visina fonta: 9.0
+         Polje-9:Visina fonta: 9.0
+    Line-21:
+         Polje-1:Visina fonta: 9.0
+         Polje-2:Visina fonta: 9.0
+         Polje-3:Visina fonta: 9.0
+         Polje-4:Visina fonta: 9.0
+         Polje-5:Visina fonta: 9.0
+         Polje-6:Visina fonta: 9.0
+         Polje-7:Visina fonta: 9.0
+         Polje-8:Visina fonta: 9.0
+         Polje-9:Visina fonta: 9.0
+    Line-22:
+         Polje-1:Visina fonta: 9.0
+         Polje-2:Visina fonta: 9.0
+         Polje-3:Visina fonta: 9.0
+         Polje-4:Visina fonta: 9.0
+         Polje-5:Visina fonta: 9.0
+         Polje-6:Visina fonta: 9.0
+         Polje-7:Visina fonta: 9.0
+         Polje-8:Visina fonta: 9.0
+         Polje-9:Visina fonta: 9.0
+    Line-23:
+         Polje-1:Visina fonta: 9.0
+         Polje-2:Visina fonta: 9.0
+         Polje-3:Visina fonta: 9.0
+         Polje-4:Visina fonta: 9.0
+         Polje-5:Visina fonta: 9.0
+         Polje-6:Visina fonta: 9.0
+         Polje-7:Visina fonta: 9.0
+         Polje-8:Visina fonta: 9.0
+         Polje-9:Visina fonta: 9.0
+    Line-24:
+         Polje-1:Visina fonta: 9.0
+         Polje-2:Visina fonta: 9.0
+         Polje-3:Visina fonta: 9.0
+         Polje-4:Visina fonta: 9.0
+         Polje-5:Visina fonta: 9.0
+         Polje-6:Visina fonta: 9.0
+         Polje-7:Visina fonta: 9.0
+         Polje-8:Visina fonta: 9.0
+         Polje-9:Visina fonta: 9.0
+    Line-25:
+         Polje-1:Visina fonta: 9.0
+         Polje-2:Visina fonta: 9.0
+         Polje-3:Visina fonta: 9.0
+         Polje-4:Visina fonta: 9.0
+         Polje-5:Visina fonta: 9.0
+         Polje-6:Visina fonta: 9.0
+         Polje-7:Visina fonta: 9.0
+         Polje-8:Visina fonta: 9.0
+         Polje-9:Visina fonta: 9.0
+    Line-26:
+         Polje-1:Visina fonta: 9.0
+         Polje-2:Visina fonta: 9.0
+         Polje-3:Visina fonta: 9.0
+         Polje-4:Visina fonta: 9.0
+         Polje-5:Visina fonta: 9.0
+         Polje-6:Visina fonta: 9.0
+         Polje-7:Visina fonta: 9.0
+         Polje-8:Visina fonta: 9.0
+         Polje-9:Visina fonta: 9.0
+    Line-27:
+         Polje-1:Visina fonta: 9.0
+         Polje-2:Visina fonta: 9.0
+         Polje-3:Visina fonta: 9.0
+         Polje-4:Visina fonta: 9.0
+         Polje-5:Visina fonta: 9.0
+         Polje-6:Visina fonta: 9.0
+         Polje-7:Visina fonta: 9.0
+         Polje-8:Visina fonta: 9.0
+         Polje-9:Visina fonta: 9.0
+    Line-28:
+         Polje-1:Visina fonta: 9.0
+         Polje-2:Visina fonta: 9.0
+         Polje-3:Visina fonta: 9.0
+         Polje-4:Visina fonta: 9.0
+         Polje-5:Visina fonta: 9.0
+         Polje-6:Visina fonta: 9.0
+         Polje-7:Visina fonta: 9.0
+         Polje-8:Visina fonta: 9.0
+         Polje-9:Visina fonta: 9.0
+    Line-29:
+         Polje-1:Visina fonta: 9.0
+         Polje-2:Visina fonta: 9.0
+         Polje-3:Visina fonta: 9.0
+         Polje-4:Visina fonta: 9.0
+         Polje-5:Visina fonta: 9.0
+         Polje-6:Visina fonta: 9.0
+         Polje-7:Visina fonta: 9.0
+         Polje-8:Visina fonta: 9.0
+         Polje-9:Visina fonta: 9.0
+    Line-30:
+         Polje-1:Visina fonta: 9.0
+         Polje-2:Visina fonta: 9.0
+         Polje-3:Visina fonta: 9.0
+         Polje-4:Visina fonta: 9.0
+         Polje-5:Visina fonta: 9.0
+         Polje-6:Visina fonta: 9.0
+         Polje-7:Visina fonta: 9.0
+         Polje-8:Visina fonta: 9.0
+         Polje-9:Visina fonta: 9.0
+    Line-31:
+         Polje-1:Visina fonta: 6.0
+    Line-32:
+         Polje-1:Visina fonta: 6.0
+    Line-33:
+         Polje-1:Visina fonta: 6.0
+    Line-34:
          Polje-1:Visina fonta: 6.0
 Page: 6
     Line-1:
@@ -429,7 +1400,6 @@ Page: 6
          Polje-7:Visina fonta: 9.0
          Polje-8:Visina fonta: 9.0
          Polje-9:Visina fonta: 9.0
-         Polje-10:Visina fonta: 9.0
     Line-6:
          Polje-1:Visina fonta: 9.0
          Polje-2:Visina fonta: 9.0
@@ -440,7 +1410,6 @@ Page: 6
          Polje-7:Visina fonta: 9.0
          Polje-8:Visina fonta: 9.0
          Polje-9:Visina fonta: 9.0
-         Polje-10:Visina fonta: 9.0
     Line-7:
          Polje-1:Visina fonta: 9.0
          Polje-2:Visina fonta: 9.0
@@ -451,7 +1420,6 @@ Page: 6
          Polje-7:Visina fonta: 9.0
          Polje-8:Visina fonta: 9.0
          Polje-9:Visina fonta: 9.0
-         Polje-10:Visina fonta: 9.0
     Line-8:
          Polje-1:Visina fonta: 9.0
          Polje-2:Visina fonta: 9.0
@@ -462,7 +1430,6 @@ Page: 6
          Polje-7:Visina fonta: 9.0
          Polje-8:Visina fonta: 9.0
          Polje-9:Visina fonta: 9.0
-         Polje-10:Visina fonta: 9.0
     Line-9:
          Polje-1:Visina fonta: 9.0
          Polje-2:Visina fonta: 9.0
@@ -473,7 +1440,6 @@ Page: 6
          Polje-7:Visina fonta: 9.0
          Polje-8:Visina fonta: 9.0
          Polje-9:Visina fonta: 9.0
-         Polje-10:Visina fonta: 9.0
     Line-10:
          Polje-1:Visina fonta: 9.0
          Polje-2:Visina fonta: 9.0
@@ -484,14 +1450,213 @@ Page: 6
          Polje-7:Visina fonta: 9.0
          Polje-8:Visina fonta: 9.0
          Polje-9:Visina fonta: 9.0
-         Polje-10:Visina fonta: 9.0
     Line-11:
-         Polje-1:Visina fonta: 6.0
+         Polje-1:Visina fonta: 9.0
+         Polje-2:Visina fonta: 9.0
+         Polje-3:Visina fonta: 9.0
+         Polje-4:Visina fonta: 9.0
+         Polje-5:Visina fonta: 9.0
+         Polje-6:Visina fonta: 9.0
+         Polje-7:Visina fonta: 9.0
+         Polje-8:Visina fonta: 9.0
+         Polje-9:Visina fonta: 9.0
     Line-12:
-         Polje-1:Visina fonta: 6.0
+         Polje-1:Visina fonta: 9.0
+         Polje-2:Visina fonta: 9.0
+         Polje-3:Visina fonta: 9.0
+         Polje-4:Visina fonta: 9.0
+         Polje-5:Visina fonta: 9.0
+         Polje-6:Visina fonta: 9.0
+         Polje-7:Visina fonta: 9.0
+         Polje-8:Visina fonta: 9.0
+         Polje-9:Visina fonta: 9.0
     Line-13:
-         Polje-1:Visina fonta: 6.0
+         Polje-1:Visina fonta: 9.0
+         Polje-2:Visina fonta: 9.0
+         Polje-3:Visina fonta: 9.0
+         Polje-4:Visina fonta: 9.0
+         Polje-5:Visina fonta: 9.0
+         Polje-6:Visina fonta: 9.0
+         Polje-7:Visina fonta: 9.0
+         Polje-8:Visina fonta: 9.0
+         Polje-9:Visina fonta: 9.0
     Line-14:
+         Polje-1:Visina fonta: 9.0
+         Polje-2:Visina fonta: 9.0
+         Polje-3:Visina fonta: 9.0
+         Polje-4:Visina fonta: 9.0
+         Polje-5:Visina fonta: 9.0
+         Polje-6:Visina fonta: 9.0
+         Polje-7:Visina fonta: 9.0
+         Polje-8:Visina fonta: 9.0
+         Polje-9:Visina fonta: 9.0
+    Line-15:
+         Polje-1:Visina fonta: 9.0
+         Polje-2:Visina fonta: 9.0
+         Polje-3:Visina fonta: 9.0
+         Polje-4:Visina fonta: 9.0
+         Polje-5:Visina fonta: 9.0
+         Polje-6:Visina fonta: 9.0
+         Polje-7:Visina fonta: 9.0
+         Polje-8:Visina fonta: 9.0
+         Polje-9:Visina fonta: 9.0
+    Line-16:
+         Polje-1:Visina fonta: 9.0
+         Polje-2:Visina fonta: 9.0
+         Polje-3:Visina fonta: 9.0
+         Polje-4:Visina fonta: 9.0
+         Polje-5:Visina fonta: 9.0
+         Polje-6:Visina fonta: 9.0
+         Polje-7:Visina fonta: 9.0
+         Polje-8:Visina fonta: 9.0
+         Polje-9:Visina fonta: 9.0
+    Line-17:
+         Polje-1:Visina fonta: 9.0
+         Polje-2:Visina fonta: 9.0
+         Polje-3:Visina fonta: 9.0
+         Polje-4:Visina fonta: 9.0
+         Polje-5:Visina fonta: 9.0
+         Polje-6:Visina fonta: 9.0
+         Polje-7:Visina fonta: 9.0
+         Polje-8:Visina fonta: 9.0
+         Polje-9:Visina fonta: 9.0
+    Line-18:
+         Polje-1:Visina fonta: 9.0
+         Polje-2:Visina fonta: 9.0
+         Polje-3:Visina fonta: 9.0
+         Polje-4:Visina fonta: 9.0
+         Polje-5:Visina fonta: 9.0
+         Polje-6:Visina fonta: 9.0
+         Polje-7:Visina fonta: 9.0
+         Polje-8:Visina fonta: 9.0
+         Polje-9:Visina fonta: 9.0
+    Line-19:
+         Polje-1:Visina fonta: 9.0
+         Polje-2:Visina fonta: 9.0
+         Polje-3:Visina fonta: 9.0
+         Polje-4:Visina fonta: 9.0
+         Polje-5:Visina fonta: 9.0
+         Polje-6:Visina fonta: 9.0
+         Polje-7:Visina fonta: 9.0
+         Polje-8:Visina fonta: 9.0
+         Polje-9:Visina fonta: 9.0
+    Line-20:
+         Polje-1:Visina fonta: 9.0
+         Polje-2:Visina fonta: 9.0
+         Polje-3:Visina fonta: 9.0
+         Polje-4:Visina fonta: 9.0
+         Polje-5:Visina fonta: 9.0
+         Polje-6:Visina fonta: 9.0
+         Polje-7:Visina fonta: 9.0
+         Polje-8:Visina fonta: 9.0
+         Polje-9:Visina fonta: 9.0
+    Line-21:
+         Polje-1:Visina fonta: 9.0
+         Polje-2:Visina fonta: 9.0
+         Polje-3:Visina fonta: 9.0
+         Polje-4:Visina fonta: 9.0
+         Polje-5:Visina fonta: 9.0
+         Polje-6:Visina fonta: 9.0
+         Polje-7:Visina fonta: 9.0
+         Polje-8:Visina fonta: 9.0
+         Polje-9:Visina fonta: 9.0
+    Line-22:
+         Polje-1:Visina fonta: 9.0
+         Polje-2:Visina fonta: 9.0
+         Polje-3:Visina fonta: 9.0
+         Polje-4:Visina fonta: 9.0
+         Polje-5:Visina fonta: 9.0
+         Polje-6:Visina fonta: 9.0
+         Polje-7:Visina fonta: 9.0
+         Polje-8:Visina fonta: 9.0
+         Polje-9:Visina fonta: 9.0
+    Line-23:
+         Polje-1:Visina fonta: 9.0
+         Polje-2:Visina fonta: 9.0
+         Polje-3:Visina fonta: 9.0
+         Polje-4:Visina fonta: 9.0
+         Polje-5:Visina fonta: 9.0
+         Polje-6:Visina fonta: 9.0
+         Polje-7:Visina fonta: 9.0
+         Polje-8:Visina fonta: 9.0
+         Polje-9:Visina fonta: 9.0
+    Line-24:
+         Polje-1:Visina fonta: 9.0
+         Polje-2:Visina fonta: 9.0
+         Polje-3:Visina fonta: 9.0
+         Polje-4:Visina fonta: 9.0
+         Polje-5:Visina fonta: 9.0
+         Polje-6:Visina fonta: 9.0
+         Polje-7:Visina fonta: 9.0
+         Polje-8:Visina fonta: 9.0
+         Polje-9:Visina fonta: 9.0
+    Line-25:
+         Polje-1:Visina fonta: 9.0
+         Polje-2:Visina fonta: 9.0
+         Polje-3:Visina fonta: 9.0
+         Polje-4:Visina fonta: 9.0
+         Polje-5:Visina fonta: 9.0
+         Polje-6:Visina fonta: 9.0
+         Polje-7:Visina fonta: 9.0
+         Polje-8:Visina fonta: 9.0
+         Polje-9:Visina fonta: 9.0
+    Line-26:
+         Polje-1:Visina fonta: 9.0
+         Polje-2:Visina fonta: 9.0
+         Polje-3:Visina fonta: 9.0
+         Polje-4:Visina fonta: 9.0
+         Polje-5:Visina fonta: 9.0
+         Polje-6:Visina fonta: 9.0
+         Polje-7:Visina fonta: 9.0
+         Polje-8:Visina fonta: 9.0
+         Polje-9:Visina fonta: 9.0
+    Line-27:
+         Polje-1:Visina fonta: 9.0
+         Polje-2:Visina fonta: 9.0
+         Polje-3:Visina fonta: 9.0
+         Polje-4:Visina fonta: 9.0
+         Polje-5:Visina fonta: 9.0
+         Polje-6:Visina fonta: 9.0
+         Polje-7:Visina fonta: 9.0
+         Polje-8:Visina fonta: 9.0
+         Polje-9:Visina fonta: 9.0
+    Line-28:
+         Polje-1:Visina fonta: 9.0
+         Polje-2:Visina fonta: 9.0
+         Polje-3:Visina fonta: 9.0
+         Polje-4:Visina fonta: 9.0
+         Polje-5:Visina fonta: 9.0
+         Polje-6:Visina fonta: 9.0
+         Polje-7:Visina fonta: 9.0
+         Polje-8:Visina fonta: 9.0
+         Polje-9:Visina fonta: 9.0
+    Line-29:
+         Polje-1:Visina fonta: 9.0
+         Polje-2:Visina fonta: 9.0
+         Polje-3:Visina fonta: 9.0
+         Polje-4:Visina fonta: 9.0
+         Polje-5:Visina fonta: 9.0
+         Polje-6:Visina fonta: 9.0
+         Polje-7:Visina fonta: 9.0
+         Polje-8:Visina fonta: 9.0
+         Polje-9:Visina fonta: 9.0
+    Line-30:
+         Polje-1:Visina fonta: 9.0
+         Polje-2:Visina fonta: 9.0
+         Polje-3:Visina fonta: 9.0
+         Polje-4:Visina fonta: 9.0
+         Polje-5:Visina fonta: 9.0
+         Polje-6:Visina fonta: 9.0
+         Polje-7:Visina fonta: 9.0
+         Polje-8:Visina fonta: 9.0
+         Polje-9:Visina fonta: 9.0
+    Line-31:
+         Polje-1:Visina fonta: 6.0
+    Line-32:
+         Polje-1:Visina fonta: 6.0
+    Line-33:
+         Polje-1:Visina fonta: 6.0
+    Line-34:
          Polje-1:Visina fonta: 6.0
 Page: 7
     Line-1:
@@ -513,7 +1678,6 @@ Page: 7
          Polje-7:Visina fonta: 9.0
          Polje-8:Visina fonta: 9.0
          Polje-9:Visina fonta: 9.0
-         Polje-10:Visina fonta: 9.0
     Line-6:
          Polje-1:Visina fonta: 9.0
          Polje-2:Visina fonta: 9.0
@@ -524,7 +1688,6 @@ Page: 7
          Polje-7:Visina fonta: 9.0
          Polje-8:Visina fonta: 9.0
          Polje-9:Visina fonta: 9.0
-         Polje-10:Visina fonta: 9.0
     Line-7:
          Polje-1:Visina fonta: 9.0
          Polje-2:Visina fonta: 9.0
@@ -535,7 +1698,6 @@ Page: 7
          Polje-7:Visina fonta: 9.0
          Polje-8:Visina fonta: 9.0
          Polje-9:Visina fonta: 9.0
-         Polje-10:Visina fonta: 9.0
     Line-8:
          Polje-1:Visina fonta: 9.0
          Polje-2:Visina fonta: 9.0
@@ -546,7 +1708,6 @@ Page: 7
          Polje-7:Visina fonta: 9.0
          Polje-8:Visina fonta: 9.0
          Polje-9:Visina fonta: 9.0
-         Polje-10:Visina fonta: 9.0
     Line-9:
          Polje-1:Visina fonta: 9.0
          Polje-2:Visina fonta: 9.0
@@ -557,7 +1718,6 @@ Page: 7
          Polje-7:Visina fonta: 9.0
          Polje-8:Visina fonta: 9.0
          Polje-9:Visina fonta: 9.0
-         Polje-10:Visina fonta: 9.0
     Line-10:
          Polje-1:Visina fonta: 9.0
          Polje-2:Visina fonta: 9.0
@@ -568,1250 +1728,55 @@ Page: 7
          Polje-7:Visina fonta: 9.0
          Polje-8:Visina fonta: 9.0
          Polje-9:Visina fonta: 9.0
-         Polje-10:Visina fonta: 9.0
     Line-11:
-         Polje-1:Visina fonta: 6.0
+         Polje-1:Visina fonta: 9.0
+         Polje-2:Visina fonta: 9.0
+         Polje-3:Visina fonta: 9.0
+         Polje-4:Visina fonta: 9.0
+         Polje-5:Visina fonta: 9.0
+         Polje-6:Visina fonta: 9.0
+         Polje-7:Visina fonta: 9.0
+         Polje-8:Visina fonta: 9.0
+         Polje-9:Visina fonta: 9.0
     Line-12:
-         Polje-1:Visina fonta: 6.0
+         Polje-1:Visina fonta: 9.0
+         Polje-2:Visina fonta: 9.0
+         Polje-3:Visina fonta: 9.0
+         Polje-4:Visina fonta: 9.0
+         Polje-5:Visina fonta: 9.0
+         Polje-6:Visina fonta: 9.0
+         Polje-7:Visina fonta: 9.0
+         Polje-8:Visina fonta: 9.0
+         Polje-9:Visina fonta: 9.0
     Line-13:
-         Polje-1:Visina fonta: 6.0
+         Polje-1:Visina fonta: 9.0
+         Polje-2:Visina fonta: 9.0
+         Polje-3:Visina fonta: 9.0
+         Polje-4:Visina fonta: 9.0
+         Polje-5:Visina fonta: 9.0
+         Polje-6:Visina fonta: 9.0
+         Polje-7:Visina fonta: 9.0
+         Polje-8:Visina fonta: 9.0
+         Polje-9:Visina fonta: 9.0
     Line-14:
          Polje-1:Visina fonta: 6.0
-Page: 8
-    Line-1:
-         Polje-1:Visina fonta: 9.0
-         Polje-2:Visina fonta: 9.0
-    Line-2:
-         Polje-1:Visina fonta: 9.0
-    Line-3:
-         Polje-1:Visina fonta: 6.0
-    Line-4:
-         Polje-1:Visina fonta: 9.0
-    Line-5:
-         Polje-1:Visina fonta: 6.0
-         Polje-2:Visina fonta: 9.0
-         Polje-3:Visina fonta: 9.0
-         Polje-4:Visina fonta: 9.0
-         Polje-5:Visina fonta: 9.0
-         Polje-6:Visina fonta: 9.0
-         Polje-7:Visina fonta: 9.0
-         Polje-8:Visina fonta: 9.0
-         Polje-9:Visina fonta: 9.0
-         Polje-10:Visina fonta: 9.0
-    Line-6:
-         Polje-1:Visina fonta: 9.0
-         Polje-2:Visina fonta: 9.0
-         Polje-3:Visina fonta: 9.0
-         Polje-4:Visina fonta: 9.0
-         Polje-5:Visina fonta: 9.0
-         Polje-6:Visina fonta: 9.0
-         Polje-7:Visina fonta: 9.0
-         Polje-8:Visina fonta: 9.0
-         Polje-9:Visina fonta: 9.0
-         Polje-10:Visina fonta: 9.0
-    Line-7:
-         Polje-1:Visina fonta: 9.0
-         Polje-2:Visina fonta: 9.0
-         Polje-3:Visina fonta: 9.0
-         Polje-4:Visina fonta: 9.0
-         Polje-5:Visina fonta: 9.0
-         Polje-6:Visina fonta: 9.0
-         Polje-7:Visina fonta: 9.0
-         Polje-8:Visina fonta: 9.0
-         Polje-9:Visina fonta: 9.0
-         Polje-10:Visina fonta: 9.0
-    Line-8:
-         Polje-1:Visina fonta: 9.0
-         Polje-2:Visina fonta: 9.0
-         Polje-3:Visina fonta: 9.0
-         Polje-4:Visina fonta: 9.0
-         Polje-5:Visina fonta: 9.0
-         Polje-6:Visina fonta: 9.0
-         Polje-7:Visina fonta: 9.0
-         Polje-8:Visina fonta: 9.0
-         Polje-9:Visina fonta: 9.0
-         Polje-10:Visina fonta: 9.0
-    Line-9:
-         Polje-1:Visina fonta: 9.0
-         Polje-2:Visina fonta: 9.0
-         Polje-3:Visina fonta: 9.0
-         Polje-4:Visina fonta: 9.0
-         Polje-5:Visina fonta: 9.0
-         Polje-6:Visina fonta: 9.0
-         Polje-7:Visina fonta: 9.0
-         Polje-8:Visina fonta: 9.0
-         Polje-9:Visina fonta: 9.0
-         Polje-10:Visina fonta: 9.0
-    Line-10:
-         Polje-1:Visina fonta: 9.0
-         Polje-2:Visina fonta: 9.0
-         Polje-3:Visina fonta: 9.0
-         Polje-4:Visina fonta: 9.0
-         Polje-5:Visina fonta: 9.0
-         Polje-6:Visina fonta: 9.0
-         Polje-7:Visina fonta: 9.0
-         Polje-8:Visina fonta: 9.0
-         Polje-9:Visina fonta: 9.0
-         Polje-10:Visina fonta: 9.0
-    Line-11:
-         Polje-1:Visina fonta: 6.0
-    Line-12:
-         Polje-1:Visina fonta: 6.0
-    Line-13:
-         Polje-1:Visina fonta: 6.0
-    Line-14:
-         Polje-1:Visina fonta: 6.0
-Page: 9
-    Line-1:
-         Polje-1:Visina fonta: 9.0
-         Polje-2:Visina fonta: 9.0
-    Line-2:
-         Polje-1:Visina fonta: 9.0
-    Line-3:
-         Polje-1:Visina fonta: 6.0
-    Line-4:
-         Polje-1:Visina fonta: 9.0
-    Line-5:
-         Polje-1:Visina fonta: 6.0
-         Polje-2:Visina fonta: 9.0
-         Polje-3:Visina fonta: 9.0
-         Polje-4:Visina fonta: 9.0
-         Polje-5:Visina fonta: 9.0
-         Polje-6:Visina fonta: 9.0
-         Polje-7:Visina fonta: 9.0
-         Polje-8:Visina fonta: 9.0
-         Polje-9:Visina fonta: 9.0
-         Polje-10:Visina fonta: 9.0
-    Line-6:
-         Polje-1:Visina fonta: 9.0
-         Polje-2:Visina fonta: 9.0
-         Polje-3:Visina fonta: 9.0
-         Polje-4:Visina fonta: 9.0
-         Polje-5:Visina fonta: 9.0
-         Polje-6:Visina fonta: 9.0
-         Polje-7:Visina fonta: 9.0
-         Polje-8:Visina fonta: 9.0
-         Polje-9:Visina fonta: 9.0
-         Polje-10:Visina fonta: 9.0
-    Line-7:
-         Polje-1:Visina fonta: 9.0
-         Polje-2:Visina fonta: 9.0
-         Polje-3:Visina fonta: 9.0
-         Polje-4:Visina fonta: 9.0
-         Polje-5:Visina fonta: 9.0
-         Polje-6:Visina fonta: 9.0
-         Polje-7:Visina fonta: 9.0
-         Polje-8:Visina fonta: 9.0
-         Polje-9:Visina fonta: 9.0
-         Polje-10:Visina fonta: 9.0
-    Line-8:
-         Polje-1:Visina fonta: 9.0
-         Polje-2:Visina fonta: 9.0
-         Polje-3:Visina fonta: 9.0
-         Polje-4:Visina fonta: 9.0
-         Polje-5:Visina fonta: 9.0
-         Polje-6:Visina fonta: 9.0
-         Polje-7:Visina fonta: 9.0
-         Polje-8:Visina fonta: 9.0
-         Polje-9:Visina fonta: 9.0
-         Polje-10:Visina fonta: 9.0
-    Line-9:
-         Polje-1:Visina fonta: 9.0
-         Polje-2:Visina fonta: 9.0
-         Polje-3:Visina fonta: 9.0
-         Polje-4:Visina fonta: 9.0
-         Polje-5:Visina fonta: 9.0
-         Polje-6:Visina fonta: 9.0
-         Polje-7:Visina fonta: 9.0
-         Polje-8:Visina fonta: 9.0
-         Polje-9:Visina fonta: 9.0
-         Polje-10:Visina fonta: 9.0
-    Line-10:
-         Polje-1:Visina fonta: 9.0
-         Polje-2:Visina fonta: 9.0
-         Polje-3:Visina fonta: 9.0
-         Polje-4:Visina fonta: 9.0
-         Polje-5:Visina fonta: 9.0
-         Polje-6:Visina fonta: 9.0
-         Polje-7:Visina fonta: 9.0
-         Polje-8:Visina fonta: 9.0
-         Polje-9:Visina fonta: 9.0
-         Polje-10:Visina fonta: 9.0
-    Line-11:
-         Polje-1:Visina fonta: 6.0
-    Line-12:
-         Polje-1:Visina fonta: 6.0
-    Line-13:
-         Polje-1:Visina fonta: 6.0
-    Line-14:
-         Polje-1:Visina fonta: 6.0
-Page: 10
-    Line-1:
-         Polje-1:Visina fonta: 9.0
-         Polje-2:Visina fonta: 9.0
-    Line-2:
-         Polje-1:Visina fonta: 9.0
-    Line-3:
-         Polje-1:Visina fonta: 6.0
-    Line-4:
-         Polje-1:Visina fonta: 9.0
-    Line-5:
-         Polje-1:Visina fonta: 6.0
-         Polje-2:Visina fonta: 9.0
-         Polje-3:Visina fonta: 9.0
-         Polje-4:Visina fonta: 9.0
-         Polje-5:Visina fonta: 9.0
-         Polje-6:Visina fonta: 9.0
-         Polje-7:Visina fonta: 9.0
-         Polje-8:Visina fonta: 9.0
-         Polje-9:Visina fonta: 9.0
-         Polje-10:Visina fonta: 9.0
-    Line-6:
-         Polje-1:Visina fonta: 9.0
-         Polje-2:Visina fonta: 9.0
-         Polje-3:Visina fonta: 9.0
-         Polje-4:Visina fonta: 9.0
-         Polje-5:Visina fonta: 9.0
-         Polje-6:Visina fonta: 9.0
-         Polje-7:Visina fonta: 9.0
-         Polje-8:Visina fonta: 9.0
-         Polje-9:Visina fonta: 9.0
-         Polje-10:Visina fonta: 9.0
-    Line-7:
-         Polje-1:Visina fonta: 9.0
-         Polje-2:Visina fonta: 9.0
-         Polje-3:Visina fonta: 9.0
-         Polje-4:Visina fonta: 9.0
-         Polje-5:Visina fonta: 9.0
-         Polje-6:Visina fonta: 9.0
-         Polje-7:Visina fonta: 9.0
-         Polje-8:Visina fonta: 9.0
-         Polje-9:Visina fonta: 9.0
-         Polje-10:Visina fonta: 9.0
-    Line-8:
-         Polje-1:Visina fonta: 9.0
-         Polje-2:Visina fonta: 9.0
-         Polje-3:Visina fonta: 9.0
-         Polje-4:Visina fonta: 9.0
-         Polje-5:Visina fonta: 9.0
-         Polje-6:Visina fonta: 9.0
-         Polje-7:Visina fonta: 9.0
-         Polje-8:Visina fonta: 9.0
-         Polje-9:Visina fonta: 9.0
-         Polje-10:Visina fonta: 9.0
-    Line-9:
-         Polje-1:Visina fonta: 9.0
-         Polje-2:Visina fonta: 9.0
-         Polje-3:Visina fonta: 9.0
-         Polje-4:Visina fonta: 9.0
-         Polje-5:Visina fonta: 9.0
-         Polje-6:Visina fonta: 9.0
-         Polje-7:Visina fonta: 9.0
-         Polje-8:Visina fonta: 9.0
-         Polje-9:Visina fonta: 9.0
-         Polje-10:Visina fonta: 9.0
-    Line-10:
-         Polje-1:Visina fonta: 9.0
-         Polje-2:Visina fonta: 9.0
-         Polje-3:Visina fonta: 9.0
-         Polje-4:Visina fonta: 9.0
-         Polje-5:Visina fonta: 9.0
-         Polje-6:Visina fonta: 9.0
-         Polje-7:Visina fonta: 9.0
-         Polje-8:Visina fonta: 9.0
-         Polje-9:Visina fonta: 9.0
-         Polje-10:Visina fonta: 9.0
-    Line-11:
-         Polje-1:Visina fonta: 6.0
-    Line-12:
-         Polje-1:Visina fonta: 6.0
-    Line-13:
-         Polje-1:Visina fonta: 6.0
-    Line-14:
-         Polje-1:Visina fonta: 6.0
-Page: 11
-    Line-1:
-         Polje-1:Visina fonta: 9.0
-         Polje-2:Visina fonta: 9.0
-    Line-2:
-         Polje-1:Visina fonta: 9.0
-    Line-3:
-         Polje-1:Visina fonta: 6.0
-    Line-4:
-         Polje-1:Visina fonta: 9.0
-    Line-5:
-         Polje-1:Visina fonta: 6.0
-         Polje-2:Visina fonta: 9.0
-         Polje-3:Visina fonta: 9.0
-         Polje-4:Visina fonta: 9.0
-         Polje-5:Visina fonta: 9.0
-         Polje-6:Visina fonta: 9.0
-         Polje-7:Visina fonta: 9.0
-         Polje-8:Visina fonta: 9.0
-         Polje-9:Visina fonta: 9.0
-         Polje-10:Visina fonta: 9.0
-    Line-6:
-         Polje-1:Visina fonta: 9.0
-         Polje-2:Visina fonta: 9.0
-         Polje-3:Visina fonta: 9.0
-         Polje-4:Visina fonta: 9.0
-         Polje-5:Visina fonta: 9.0
-         Polje-6:Visina fonta: 9.0
-         Polje-7:Visina fonta: 9.0
-         Polje-8:Visina fonta: 9.0
-         Polje-9:Visina fonta: 9.0
-         Polje-10:Visina fonta: 9.0
-    Line-7:
-         Polje-1:Visina fonta: 9.0
-         Polje-2:Visina fonta: 9.0
-         Polje-3:Visina fonta: 9.0
-         Polje-4:Visina fonta: 9.0
-         Polje-5:Visina fonta: 9.0
-         Polje-6:Visina fonta: 9.0
-         Polje-7:Visina fonta: 9.0
-         Polje-8:Visina fonta: 9.0
-         Polje-9:Visina fonta: 9.0
-         Polje-10:Visina fonta: 9.0
-    Line-8:
-         Polje-1:Visina fonta: 9.0
-         Polje-2:Visina fonta: 9.0
-         Polje-3:Visina fonta: 9.0
-         Polje-4:Visina fonta: 9.0
-         Polje-5:Visina fonta: 9.0
-         Polje-6:Visina fonta: 9.0
-         Polje-7:Visina fonta: 9.0
-         Polje-8:Visina fonta: 9.0
-         Polje-9:Visina fonta: 9.0
-         Polje-10:Visina fonta: 9.0
-    Line-9:
-         Polje-1:Visina fonta: 9.0
-         Polje-2:Visina fonta: 9.0
-         Polje-3:Visina fonta: 9.0
-         Polje-4:Visina fonta: 9.0
-         Polje-5:Visina fonta: 9.0
-         Polje-6:Visina fonta: 9.0
-         Polje-7:Visina fonta: 9.0
-         Polje-8:Visina fonta: 9.0
-         Polje-9:Visina fonta: 9.0
-         Polje-10:Visina fonta: 9.0
-    Line-10:
-         Polje-1:Visina fonta: 9.0
-         Polje-2:Visina fonta: 9.0
-         Polje-3:Visina fonta: 9.0
-         Polje-4:Visina fonta: 9.0
-         Polje-5:Visina fonta: 9.0
-         Polje-6:Visina fonta: 9.0
-         Polje-7:Visina fonta: 9.0
-         Polje-8:Visina fonta: 9.0
-         Polje-9:Visina fonta: 9.0
-         Polje-10:Visina fonta: 9.0
-    Line-11:
-         Polje-1:Visina fonta: 6.0
-    Line-12:
-         Polje-1:Visina fonta: 6.0
-    Line-13:
-         Polje-1:Visina fonta: 6.0
-    Line-14:
-         Polje-1:Visina fonta: 6.0
-Page: 12
-    Line-1:
-         Polje-1:Visina fonta: 9.0
-         Polje-2:Visina fonta: 9.0
-    Line-2:
-         Polje-1:Visina fonta: 9.0
-    Line-3:
-         Polje-1:Visina fonta: 6.0
-    Line-4:
-         Polje-1:Visina fonta: 9.0
-    Line-5:
-         Polje-1:Visina fonta: 6.0
-         Polje-2:Visina fonta: 9.0
-         Polje-3:Visina fonta: 9.0
-         Polje-4:Visina fonta: 9.0
-         Polje-5:Visina fonta: 9.0
-         Polje-6:Visina fonta: 9.0
-         Polje-7:Visina fonta: 9.0
-         Polje-8:Visina fonta: 9.0
-         Polje-9:Visina fonta: 9.0
-         Polje-10:Visina fonta: 9.0
-    Line-6:
-         Polje-1:Visina fonta: 9.0
-         Polje-2:Visina fonta: 9.0
-         Polje-3:Visina fonta: 9.0
-         Polje-4:Visina fonta: 9.0
-         Polje-5:Visina fonta: 9.0
-         Polje-6:Visina fonta: 9.0
-         Polje-7:Visina fonta: 9.0
-         Polje-8:Visina fonta: 9.0
-         Polje-9:Visina fonta: 9.0
-         Polje-10:Visina fonta: 9.0
-    Line-7:
-         Polje-1:Visina fonta: 9.0
-         Polje-2:Visina fonta: 9.0
-         Polje-3:Visina fonta: 9.0
-         Polje-4:Visina fonta: 9.0
-         Polje-5:Visina fonta: 9.0
-         Polje-6:Visina fonta: 9.0
-         Polje-7:Visina fonta: 9.0
-         Polje-8:Visina fonta: 9.0
-         Polje-9:Visina fonta: 9.0
-         Polje-10:Visina fonta: 9.0
-    Line-8:
-         Polje-1:Visina fonta: 9.0
-         Polje-2:Visina fonta: 9.0
-         Polje-3:Visina fonta: 9.0
-         Polje-4:Visina fonta: 9.0
-         Polje-5:Visina fonta: 9.0
-         Polje-6:Visina fonta: 9.0
-         Polje-7:Visina fonta: 9.0
-         Polje-8:Visina fonta: 9.0
-         Polje-9:Visina fonta: 9.0
-         Polje-10:Visina fonta: 9.0
-    Line-9:
-         Polje-1:Visina fonta: 9.0
-         Polje-2:Visina fonta: 9.0
-         Polje-3:Visina fonta: 9.0
-         Polje-4:Visina fonta: 9.0
-         Polje-5:Visina fonta: 9.0
-         Polje-6:Visina fonta: 9.0
-         Polje-7:Visina fonta: 9.0
-         Polje-8:Visina fonta: 9.0
-         Polje-9:Visina fonta: 9.0
-         Polje-10:Visina fonta: 9.0
-    Line-10:
-         Polje-1:Visina fonta: 9.0
-         Polje-2:Visina fonta: 9.0
-         Polje-3:Visina fonta: 9.0
-         Polje-4:Visina fonta: 9.0
-         Polje-5:Visina fonta: 9.0
-         Polje-6:Visina fonta: 9.0
-         Polje-7:Visina fonta: 9.0
-         Polje-8:Visina fonta: 9.0
-         Polje-9:Visina fonta: 9.0
-         Polje-10:Visina fonta: 9.0
-    Line-11:
-         Polje-1:Visina fonta: 6.0
-    Line-12:
-         Polje-1:Visina fonta: 6.0
-    Line-13:
-         Polje-1:Visina fonta: 6.0
-    Line-14:
-         Polje-1:Visina fonta: 6.0
-Page: 13
-    Line-1:
-         Polje-1:Visina fonta: 9.0
-         Polje-2:Visina fonta: 9.0
-    Line-2:
-         Polje-1:Visina fonta: 9.0
-    Line-3:
-         Polje-1:Visina fonta: 6.0
-    Line-4:
-         Polje-1:Visina fonta: 9.0
-    Line-5:
-         Polje-1:Visina fonta: 6.0
-         Polje-2:Visina fonta: 9.0
-         Polje-3:Visina fonta: 9.0
-         Polje-4:Visina fonta: 9.0
-         Polje-5:Visina fonta: 9.0
-         Polje-6:Visina fonta: 9.0
-         Polje-7:Visina fonta: 9.0
-         Polje-8:Visina fonta: 9.0
-         Polje-9:Visina fonta: 9.0
-         Polje-10:Visina fonta: 9.0
-    Line-6:
-         Polje-1:Visina fonta: 9.0
-         Polje-2:Visina fonta: 9.0
-         Polje-3:Visina fonta: 9.0
-         Polje-4:Visina fonta: 9.0
-         Polje-5:Visina fonta: 9.0
-         Polje-6:Visina fonta: 9.0
-         Polje-7:Visina fonta: 9.0
-         Polje-8:Visina fonta: 9.0
-         Polje-9:Visina fonta: 9.0
-         Polje-10:Visina fonta: 9.0
-    Line-7:
-         Polje-1:Visina fonta: 9.0
-         Polje-2:Visina fonta: 9.0
-         Polje-3:Visina fonta: 9.0
-         Polje-4:Visina fonta: 9.0
-         Polje-5:Visina fonta: 9.0
-         Polje-6:Visina fonta: 9.0
-         Polje-7:Visina fonta: 9.0
-         Polje-8:Visina fonta: 9.0
-         Polje-9:Visina fonta: 9.0
-         Polje-10:Visina fonta: 9.0
-    Line-8:
-         Polje-1:Visina fonta: 9.0
-         Polje-2:Visina fonta: 9.0
-         Polje-3:Visina fonta: 9.0
-         Polje-4:Visina fonta: 9.0
-         Polje-5:Visina fonta: 9.0
-         Polje-6:Visina fonta: 9.0
-         Polje-7:Visina fonta: 9.0
-         Polje-8:Visina fonta: 9.0
-         Polje-9:Visina fonta: 9.0
-         Polje-10:Visina fonta: 9.0
-    Line-9:
-         Polje-1:Visina fonta: 9.0
-         Polje-2:Visina fonta: 9.0
-         Polje-3:Visina fonta: 9.0
-         Polje-4:Visina fonta: 9.0
-         Polje-5:Visina fonta: 9.0
-         Polje-6:Visina fonta: 9.0
-         Polje-7:Visina fonta: 9.0
-         Polje-8:Visina fonta: 9.0
-         Polje-9:Visina fonta: 9.0
-         Polje-10:Visina fonta: 9.0
-    Line-10:
-         Polje-1:Visina fonta: 9.0
-         Polje-2:Visina fonta: 9.0
-         Polje-3:Visina fonta: 9.0
-         Polje-4:Visina fonta: 9.0
-         Polje-5:Visina fonta: 9.0
-         Polje-6:Visina fonta: 9.0
-         Polje-7:Visina fonta: 9.0
-         Polje-8:Visina fonta: 9.0
-         Polje-9:Visina fonta: 9.0
-         Polje-10:Visina fonta: 9.0
-    Line-11:
-         Polje-1:Visina fonta: 6.0
-    Line-12:
-         Polje-1:Visina fonta: 6.0
-    Line-13:
-         Polje-1:Visina fonta: 6.0
-    Line-14:
-         Polje-1:Visina fonta: 6.0
-Page: 14
-    Line-1:
-         Polje-1:Visina fonta: 9.0
-         Polje-2:Visina fonta: 9.0
-    Line-2:
-         Polje-1:Visina fonta: 9.0
-    Line-3:
-         Polje-1:Visina fonta: 6.0
-    Line-4:
-         Polje-1:Visina fonta: 9.0
-    Line-5:
-         Polje-1:Visina fonta: 6.0
-         Polje-2:Visina fonta: 9.0
-         Polje-3:Visina fonta: 9.0
-         Polje-4:Visina fonta: 9.0
-         Polje-5:Visina fonta: 9.0
-         Polje-6:Visina fonta: 9.0
-         Polje-7:Visina fonta: 9.0
-         Polje-8:Visina fonta: 9.0
-         Polje-9:Visina fonta: 9.0
-         Polje-10:Visina fonta: 9.0
-    Line-6:
-         Polje-1:Visina fonta: 9.0
-         Polje-2:Visina fonta: 9.0
-         Polje-3:Visina fonta: 9.0
-         Polje-4:Visina fonta: 9.0
-         Polje-5:Visina fonta: 9.0
-         Polje-6:Visina fonta: 9.0
-         Polje-7:Visina fonta: 9.0
-         Polje-8:Visina fonta: 9.0
-         Polje-9:Visina fonta: 9.0
-         Polje-10:Visina fonta: 9.0
-    Line-7:
-         Polje-1:Visina fonta: 9.0
-         Polje-2:Visina fonta: 9.0
-         Polje-3:Visina fonta: 9.0
-         Polje-4:Visina fonta: 9.0
-         Polje-5:Visina fonta: 9.0
-         Polje-6:Visina fonta: 9.0
-         Polje-7:Visina fonta: 9.0
-         Polje-8:Visina fonta: 9.0
-         Polje-9:Visina fonta: 9.0
-         Polje-10:Visina fonta: 9.0
-    Line-8:
-         Polje-1:Visina fonta: 9.0
-         Polje-2:Visina fonta: 9.0
-         Polje-3:Visina fonta: 9.0
-         Polje-4:Visina fonta: 9.0
-         Polje-5:Visina fonta: 9.0
-         Polje-6:Visina fonta: 9.0
-         Polje-7:Visina fonta: 9.0
-         Polje-8:Visina fonta: 9.0
-         Polje-9:Visina fonta: 9.0
-         Polje-10:Visina fonta: 9.0
-    Line-9:
-         Polje-1:Visina fonta: 9.0
-         Polje-2:Visina fonta: 9.0
-         Polje-3:Visina fonta: 9.0
-         Polje-4:Visina fonta: 9.0
-         Polje-5:Visina fonta: 9.0
-         Polje-6:Visina fonta: 9.0
-         Polje-7:Visina fonta: 9.0
-         Polje-8:Visina fonta: 9.0
-         Polje-9:Visina fonta: 9.0
-         Polje-10:Visina fonta: 9.0
-    Line-10:
-         Polje-1:Visina fonta: 9.0
-         Polje-2:Visina fonta: 9.0
-         Polje-3:Visina fonta: 9.0
-         Polje-4:Visina fonta: 9.0
-         Polje-5:Visina fonta: 9.0
-         Polje-6:Visina fonta: 9.0
-         Polje-7:Visina fonta: 9.0
-         Polje-8:Visina fonta: 9.0
-         Polje-9:Visina fonta: 9.0
-         Polje-10:Visina fonta: 9.0
-    Line-11:
-         Polje-1:Visina fonta: 6.0
-    Line-12:
-         Polje-1:Visina fonta: 6.0
-    Line-13:
-         Polje-1:Visina fonta: 6.0
-    Line-14:
-         Polje-1:Visina fonta: 6.0
-Page: 15
-    Line-1:
-         Polje-1:Visina fonta: 9.0
-         Polje-2:Visina fonta: 9.0
-    Line-2:
-         Polje-1:Visina fonta: 9.0
-    Line-3:
-         Polje-1:Visina fonta: 6.0
-    Line-4:
-         Polje-1:Visina fonta: 9.0
-    Line-5:
-         Polje-1:Visina fonta: 6.0
-         Polje-2:Visina fonta: 9.0
-         Polje-3:Visina fonta: 9.0
-         Polje-4:Visina fonta: 9.0
-         Polje-5:Visina fonta: 9.0
-         Polje-6:Visina fonta: 9.0
-         Polje-7:Visina fonta: 9.0
-         Polje-8:Visina fonta: 9.0
-         Polje-9:Visina fonta: 9.0
-         Polje-10:Visina fonta: 9.0
-    Line-6:
-         Polje-1:Visina fonta: 9.0
-         Polje-2:Visina fonta: 9.0
-         Polje-3:Visina fonta: 9.0
-         Polje-4:Visina fonta: 9.0
-         Polje-5:Visina fonta: 9.0
-         Polje-6:Visina fonta: 9.0
-         Polje-7:Visina fonta: 9.0
-         Polje-8:Visina fonta: 9.0
-         Polje-9:Visina fonta: 9.0
-         Polje-10:Visina fonta: 9.0
-    Line-7:
-         Polje-1:Visina fonta: 9.0
-         Polje-2:Visina fonta: 9.0
-         Polje-3:Visina fonta: 9.0
-         Polje-4:Visina fonta: 9.0
-         Polje-5:Visina fonta: 9.0
-         Polje-6:Visina fonta: 9.0
-         Polje-7:Visina fonta: 9.0
-         Polje-8:Visina fonta: 9.0
-         Polje-9:Visina fonta: 9.0
-         Polje-10:Visina fonta: 9.0
-    Line-8:
-         Polje-1:Visina fonta: 9.0
-         Polje-2:Visina fonta: 9.0
-         Polje-3:Visina fonta: 9.0
-         Polje-4:Visina fonta: 9.0
-         Polje-5:Visina fonta: 9.0
-         Polje-6:Visina fonta: 9.0
-         Polje-7:Visina fonta: 9.0
-         Polje-8:Visina fonta: 9.0
-         Polje-9:Visina fonta: 9.0
-         Polje-10:Visina fonta: 9.0
-    Line-9:
-         Polje-1:Visina fonta: 9.0
-         Polje-2:Visina fonta: 9.0
-         Polje-3:Visina fonta: 9.0
-         Polje-4:Visina fonta: 9.0
-         Polje-5:Visina fonta: 9.0
-         Polje-6:Visina fonta: 9.0
-         Polje-7:Visina fonta: 9.0
-         Polje-8:Visina fonta: 9.0
-         Polje-9:Visina fonta: 9.0
-         Polje-10:Visina fonta: 9.0
-    Line-10:
-         Polje-1:Visina fonta: 9.0
-         Polje-2:Visina fonta: 9.0
-         Polje-3:Visina fonta: 9.0
-         Polje-4:Visina fonta: 9.0
-         Polje-5:Visina fonta: 9.0
-         Polje-6:Visina fonta: 9.0
-         Polje-7:Visina fonta: 9.0
-         Polje-8:Visina fonta: 9.0
-         Polje-9:Visina fonta: 9.0
-         Polje-10:Visina fonta: 9.0
-    Line-11:
-         Polje-1:Visina fonta: 6.0
-    Line-12:
-         Polje-1:Visina fonta: 6.0
-    Line-13:
-         Polje-1:Visina fonta: 6.0
-    Line-14:
-         Polje-1:Visina fonta: 6.0
-Page: 16
-    Line-1:
-         Polje-1:Visina fonta: 9.0
-         Polje-2:Visina fonta: 9.0
-    Line-2:
-         Polje-1:Visina fonta: 9.0
-    Line-3:
-         Polje-1:Visina fonta: 6.0
-    Line-4:
-         Polje-1:Visina fonta: 9.0
-    Line-5:
-         Polje-1:Visina fonta: 6.0
-         Polje-2:Visina fonta: 9.0
-         Polje-3:Visina fonta: 9.0
-         Polje-4:Visina fonta: 9.0
-         Polje-5:Visina fonta: 9.0
-         Polje-6:Visina fonta: 9.0
-         Polje-7:Visina fonta: 9.0
-         Polje-8:Visina fonta: 9.0
-         Polje-9:Visina fonta: 9.0
-         Polje-10:Visina fonta: 9.0
-    Line-6:
-         Polje-1:Visina fonta: 9.0
-         Polje-2:Visina fonta: 9.0
-         Polje-3:Visina fonta: 9.0
-         Polje-4:Visina fonta: 9.0
-         Polje-5:Visina fonta: 9.0
-         Polje-6:Visina fonta: 9.0
-         Polje-7:Visina fonta: 9.0
-         Polje-8:Visina fonta: 9.0
-         Polje-9:Visina fonta: 9.0
-         Polje-10:Visina fonta: 9.0
-    Line-7:
-         Polje-1:Visina fonta: 9.0
-         Polje-2:Visina fonta: 9.0
-         Polje-3:Visina fonta: 9.0
-         Polje-4:Visina fonta: 9.0
-         Polje-5:Visina fonta: 9.0
-         Polje-6:Visina fonta: 9.0
-         Polje-7:Visina fonta: 9.0
-         Polje-8:Visina fonta: 9.0
-         Polje-9:Visina fonta: 9.0
-         Polje-10:Visina fonta: 9.0
-    Line-8:
-         Polje-1:Visina fonta: 9.0
-         Polje-2:Visina fonta: 9.0
-         Polje-3:Visina fonta: 9.0
-         Polje-4:Visina fonta: 9.0
-         Polje-5:Visina fonta: 9.0
-         Polje-6:Visina fonta: 9.0
-         Polje-7:Visina fonta: 9.0
-         Polje-8:Visina fonta: 9.0
-         Polje-9:Visina fonta: 9.0
-         Polje-10:Visina fonta: 9.0
-    Line-9:
-         Polje-1:Visina fonta: 9.0
-         Polje-2:Visina fonta: 9.0
-         Polje-3:Visina fonta: 9.0
-         Polje-4:Visina fonta: 9.0
-         Polje-5:Visina fonta: 9.0
-         Polje-6:Visina fonta: 9.0
-         Polje-7:Visina fonta: 9.0
-         Polje-8:Visina fonta: 9.0
-         Polje-9:Visina fonta: 9.0
-         Polje-10:Visina fonta: 9.0
-    Line-10:
-         Polje-1:Visina fonta: 9.0
-         Polje-2:Visina fonta: 9.0
-         Polje-3:Visina fonta: 9.0
-         Polje-4:Visina fonta: 9.0
-         Polje-5:Visina fonta: 9.0
-         Polje-6:Visina fonta: 9.0
-         Polje-7:Visina fonta: 9.0
-         Polje-8:Visina fonta: 9.0
-         Polje-9:Visina fonta: 9.0
-         Polje-10:Visina fonta: 9.0
-    Line-11:
-         Polje-1:Visina fonta: 6.0
-    Line-12:
-         Polje-1:Visina fonta: 6.0
-    Line-13:
-         Polje-1:Visina fonta: 6.0
-    Line-14:
-         Polje-1:Visina fonta: 6.0
-Page: 17
-    Line-1:
-         Polje-1:Visina fonta: 9.0
-         Polje-2:Visina fonta: 9.0
-    Line-2:
-         Polje-1:Visina fonta: 9.0
-    Line-3:
-         Polje-1:Visina fonta: 6.0
-    Line-4:
-         Polje-1:Visina fonta: 9.0
-    Line-5:
-         Polje-1:Visina fonta: 6.0
-         Polje-2:Visina fonta: 9.0
-         Polje-3:Visina fonta: 9.0
-         Polje-4:Visina fonta: 9.0
-         Polje-5:Visina fonta: 9.0
-         Polje-6:Visina fonta: 9.0
-         Polje-7:Visina fonta: 9.0
-         Polje-8:Visina fonta: 9.0
-         Polje-9:Visina fonta: 9.0
-         Polje-10:Visina fonta: 9.0
-    Line-6:
-         Polje-1:Visina fonta: 9.0
-         Polje-2:Visina fonta: 9.0
-         Polje-3:Visina fonta: 9.0
-         Polje-4:Visina fonta: 9.0
-         Polje-5:Visina fonta: 9.0
-         Polje-6:Visina fonta: 9.0
-         Polje-7:Visina fonta: 9.0
-         Polje-8:Visina fonta: 9.0
-         Polje-9:Visina fonta: 9.0
-         Polje-10:Visina fonta: 9.0
-    Line-7:
-         Polje-1:Visina fonta: 9.0
-         Polje-2:Visina fonta: 9.0
-         Polje-3:Visina fonta: 9.0
-         Polje-4:Visina fonta: 9.0
-         Polje-5:Visina fonta: 9.0
-         Polje-6:Visina fonta: 9.0
-         Polje-7:Visina fonta: 9.0
-         Polje-8:Visina fonta: 9.0
-         Polje-9:Visina fonta: 9.0
-         Polje-10:Visina fonta: 9.0
-    Line-8:
-         Polje-1:Visina fonta: 9.0
-         Polje-2:Visina fonta: 9.0
-         Polje-3:Visina fonta: 9.0
-         Polje-4:Visina fonta: 9.0
-         Polje-5:Visina fonta: 9.0
-         Polje-6:Visina fonta: 9.0
-         Polje-7:Visina fonta: 9.0
-         Polje-8:Visina fonta: 9.0
-         Polje-9:Visina fonta: 9.0
-         Polje-10:Visina fonta: 9.0
-    Line-9:
-         Polje-1:Visina fonta: 9.0
-         Polje-2:Visina fonta: 9.0
-         Polje-3:Visina fonta: 9.0
-         Polje-4:Visina fonta: 9.0
-         Polje-5:Visina fonta: 9.0
-         Polje-6:Visina fonta: 9.0
-         Polje-7:Visina fonta: 9.0
-         Polje-8:Visina fonta: 9.0
-         Polje-9:Visina fonta: 9.0
-         Polje-10:Visina fonta: 9.0
-    Line-10:
-         Polje-1:Visina fonta: 9.0
-         Polje-2:Visina fonta: 9.0
-         Polje-3:Visina fonta: 9.0
-         Polje-4:Visina fonta: 9.0
-         Polje-5:Visina fonta: 9.0
-         Polje-6:Visina fonta: 9.0
-         Polje-7:Visina fonta: 9.0
-         Polje-8:Visina fonta: 9.0
-         Polje-9:Visina fonta: 9.0
-         Polje-10:Visina fonta: 9.0
-    Line-11:
-         Polje-1:Visina fonta: 6.0
-    Line-12:
-         Polje-1:Visina fonta: 6.0
-    Line-13:
-         Polje-1:Visina fonta: 6.0
-    Line-14:
-         Polje-1:Visina fonta: 6.0
-Page: 18
-    Line-1:
-         Polje-1:Visina fonta: 9.0
-         Polje-2:Visina fonta: 9.0
-    Line-2:
-         Polje-1:Visina fonta: 9.0
-    Line-3:
-         Polje-1:Visina fonta: 6.0
-    Line-4:
-         Polje-1:Visina fonta: 9.0
-    Line-5:
-         Polje-1:Visina fonta: 6.0
-         Polje-2:Visina fonta: 9.0
-         Polje-3:Visina fonta: 9.0
-         Polje-4:Visina fonta: 9.0
-         Polje-5:Visina fonta: 9.0
-         Polje-6:Visina fonta: 9.0
-         Polje-7:Visina fonta: 9.0
-         Polje-8:Visina fonta: 9.0
-         Polje-9:Visina fonta: 9.0
-         Polje-10:Visina fonta: 9.0
-    Line-6:
-         Polje-1:Visina fonta: 9.0
-         Polje-2:Visina fonta: 9.0
-         Polje-3:Visina fonta: 9.0
-         Polje-4:Visina fonta: 9.0
-         Polje-5:Visina fonta: 9.0
-         Polje-6:Visina fonta: 9.0
-         Polje-7:Visina fonta: 9.0
-         Polje-8:Visina fonta: 9.0
-         Polje-9:Visina fonta: 9.0
-         Polje-10:Visina fonta: 9.0
-    Line-7:
-         Polje-1:Visina fonta: 9.0
-         Polje-2:Visina fonta: 9.0
-         Polje-3:Visina fonta: 9.0
-         Polje-4:Visina fonta: 9.0
-         Polje-5:Visina fonta: 9.0
-         Polje-6:Visina fonta: 9.0
-         Polje-7:Visina fonta: 9.0
-         Polje-8:Visina fonta: 9.0
-         Polje-9:Visina fonta: 9.0
-         Polje-10:Visina fonta: 9.0
-    Line-8:
-         Polje-1:Visina fonta: 9.0
-         Polje-2:Visina fonta: 9.0
-         Polje-3:Visina fonta: 9.0
-         Polje-4:Visina fonta: 9.0
-         Polje-5:Visina fonta: 9.0
-         Polje-6:Visina fonta: 9.0
-         Polje-7:Visina fonta: 9.0
-         Polje-8:Visina fonta: 9.0
-         Polje-9:Visina fonta: 9.0
-         Polje-10:Visina fonta: 9.0
-    Line-9:
-         Polje-1:Visina fonta: 9.0
-         Polje-2:Visina fonta: 9.0
-         Polje-3:Visina fonta: 9.0
-         Polje-4:Visina fonta: 9.0
-         Polje-5:Visina fonta: 9.0
-         Polje-6:Visina fonta: 9.0
-         Polje-7:Visina fonta: 9.0
-         Polje-8:Visina fonta: 9.0
-         Polje-9:Visina fonta: 9.0
-         Polje-10:Visina fonta: 9.0
-    Line-10:
-         Polje-1:Visina fonta: 9.0
-         Polje-2:Visina fonta: 9.0
-         Polje-3:Visina fonta: 9.0
-         Polje-4:Visina fonta: 9.0
-         Polje-5:Visina fonta: 9.0
-         Polje-6:Visina fonta: 9.0
-         Polje-7:Visina fonta: 9.0
-         Polje-8:Visina fonta: 9.0
-         Polje-9:Visina fonta: 9.0
-         Polje-10:Visina fonta: 9.0
-    Line-11:
-         Polje-1:Visina fonta: 6.0
-    Line-12:
-         Polje-1:Visina fonta: 6.0
-    Line-13:
-         Polje-1:Visina fonta: 6.0
-    Line-14:
-         Polje-1:Visina fonta: 6.0
-Page: 19
-    Line-1:
-         Polje-1:Visina fonta: 9.0
-         Polje-2:Visina fonta: 9.0
-    Line-2:
-         Polje-1:Visina fonta: 9.0
-    Line-3:
-         Polje-1:Visina fonta: 6.0
-    Line-4:
-         Polje-1:Visina fonta: 9.0
-    Line-5:
-         Polje-1:Visina fonta: 6.0
-         Polje-2:Visina fonta: 9.0
-         Polje-3:Visina fonta: 9.0
-         Polje-4:Visina fonta: 9.0
-         Polje-5:Visina fonta: 9.0
-         Polje-6:Visina fonta: 9.0
-         Polje-7:Visina fonta: 9.0
-         Polje-8:Visina fonta: 9.0
-         Polje-9:Visina fonta: 9.0
-         Polje-10:Visina fonta: 9.0
-    Line-6:
-         Polje-1:Visina fonta: 9.0
-         Polje-2:Visina fonta: 9.0
-         Polje-3:Visina fonta: 9.0
-         Polje-4:Visina fonta: 9.0
-         Polje-5:Visina fonta: 9.0
-         Polje-6:Visina fonta: 9.0
-         Polje-7:Visina fonta: 9.0
-         Polje-8:Visina fonta: 9.0
-         Polje-9:Visina fonta: 9.0
-         Polje-10:Visina fonta: 9.0
-    Line-7:
-         Polje-1:Visina fonta: 9.0
-         Polje-2:Visina fonta: 9.0
-         Polje-3:Visina fonta: 9.0
-         Polje-4:Visina fonta: 9.0
-         Polje-5:Visina fonta: 9.0
-         Polje-6:Visina fonta: 9.0
-         Polje-7:Visina fonta: 9.0
-         Polje-8:Visina fonta: 9.0
-         Polje-9:Visina fonta: 9.0
-         Polje-10:Visina fonta: 9.0
-    Line-8:
-         Polje-1:Visina fonta: 9.0
-         Polje-2:Visina fonta: 9.0
-         Polje-3:Visina fonta: 9.0
-         Polje-4:Visina fonta: 9.0
-         Polje-5:Visina fonta: 9.0
-         Polje-6:Visina fonta: 9.0
-         Polje-7:Visina fonta: 9.0
-         Polje-8:Visina fonta: 9.0
-         Polje-9:Visina fonta: 9.0
-         Polje-10:Visina fonta: 9.0
-    Line-9:
-         Polje-1:Visina fonta: 9.0
-         Polje-2:Visina fonta: 9.0
-         Polje-3:Visina fonta: 9.0
-         Polje-4:Visina fonta: 9.0
-         Polje-5:Visina fonta: 9.0
-         Polje-6:Visina fonta: 9.0
-         Polje-7:Visina fonta: 9.0
-         Polje-8:Visina fonta: 9.0
-         Polje-9:Visina fonta: 9.0
-         Polje-10:Visina fonta: 9.0
-    Line-10:
-         Polje-1:Visina fonta: 9.0
-         Polje-2:Visina fonta: 9.0
-         Polje-3:Visina fonta: 9.0
-         Polje-4:Visina fonta: 9.0
-         Polje-5:Visina fonta: 9.0
-         Polje-6:Visina fonta: 9.0
-         Polje-7:Visina fonta: 9.0
-         Polje-8:Visina fonta: 9.0
-         Polje-9:Visina fonta: 9.0
-         Polje-10:Visina fonta: 9.0
-    Line-11:
-         Polje-1:Visina fonta: 6.0
-    Line-12:
-         Polje-1:Visina fonta: 6.0
-    Line-13:
-         Polje-1:Visina fonta: 6.0
-    Line-14:
-         Polje-1:Visina fonta: 6.0
-Page: 20
-    Line-1:
-         Polje-1:Visina fonta: 9.0
-         Polje-2:Visina fonta: 9.0
-    Line-2:
-         Polje-1:Visina fonta: 9.0
-    Line-3:
-         Polje-1:Visina fonta: 6.0
-    Line-4:
-         Polje-1:Visina fonta: 9.0
-    Line-5:
-         Polje-1:Visina fonta: 6.0
-         Polje-2:Visina fonta: 9.0
-         Polje-3:Visina fonta: 9.0
-         Polje-4:Visina fonta: 9.0
-         Polje-5:Visina fonta: 9.0
-         Polje-6:Visina fonta: 9.0
-         Polje-7:Visina fonta: 9.0
-         Polje-8:Visina fonta: 9.0
-         Polje-9:Visina fonta: 9.0
-         Polje-10:Visina fonta: 9.0
-    Line-6:
-         Polje-1:Visina fonta: 9.0
-         Polje-2:Visina fonta: 9.0
-         Polje-3:Visina fonta: 9.0
-         Polje-4:Visina fonta: 9.0
-         Polje-5:Visina fonta: 9.0
-         Polje-6:Visina fonta: 9.0
-         Polje-7:Visina fonta: 9.0
-         Polje-8:Visina fonta: 9.0
-         Polje-9:Visina fonta: 9.0
-         Polje-10:Visina fonta: 9.0
-    Line-7:
-         Polje-1:Visina fonta: 9.0
-         Polje-2:Visina fonta: 9.0
-         Polje-3:Visina fonta: 9.0
-         Polje-4:Visina fonta: 9.0
-         Polje-5:Visina fonta: 9.0
-         Polje-6:Visina fonta: 9.0
-         Polje-7:Visina fonta: 9.0
-         Polje-8:Visina fonta: 9.0
-         Polje-9:Visina fonta: 9.0
-         Polje-10:Visina fonta: 9.0
-    Line-8:
-         Polje-1:Visina fonta: 9.0
-         Polje-2:Visina fonta: 9.0
-         Polje-3:Visina fonta: 9.0
-         Polje-4:Visina fonta: 9.0
-         Polje-5:Visina fonta: 9.0
-         Polje-6:Visina fonta: 9.0
-         Polje-7:Visina fonta: 9.0
-         Polje-8:Visina fonta: 9.0
-         Polje-9:Visina fonta: 9.0
-         Polje-10:Visina fonta: 9.0
-    Line-9:
-         Polje-1:Visina fonta: 9.0
-         Polje-2:Visina fonta: 9.0
-         Polje-3:Visina fonta: 9.0
-         Polje-4:Visina fonta: 9.0
-         Polje-5:Visina fonta: 9.0
-         Polje-6:Visina fonta: 9.0
-         Polje-7:Visina fonta: 9.0
-         Polje-8:Visina fonta: 9.0
-         Polje-9:Visina fonta: 9.0
-         Polje-10:Visina fonta: 9.0
-    Line-10:
-         Polje-1:Visina fonta: 9.0
-         Polje-2:Visina fonta: 9.0
-         Polje-3:Visina fonta: 9.0
-         Polje-4:Visina fonta: 9.0
-         Polje-5:Visina fonta: 9.0
-         Polje-6:Visina fonta: 9.0
-         Polje-7:Visina fonta: 9.0
-         Polje-8:Visina fonta: 9.0
-         Polje-9:Visina fonta: 9.0
-         Polje-10:Visina fonta: 9.0
-    Line-11:
-         Polje-1:Visina fonta: 6.0
-    Line-12:
-         Polje-1:Visina fonta: 6.0
-    Line-13:
-         Polje-1:Visina fonta: 6.0
-    Line-14:
-         Polje-1:Visina fonta: 6.0
-Page: 21
-    Line-1:
-         Polje-1:Visina fonta: 9.0
-         Polje-2:Visina fonta: 9.0
-    Line-2:
-         Polje-1:Visina fonta: 9.0
-    Line-3:
-         Polje-1:Visina fonta: 6.0
-    Line-4:
-         Polje-1:Visina fonta: 9.0
-    Line-5:
+    Line-15:
          Polje-1:Visina fonta: 6.0
-         Polje-2:Visina fonta: 9.0
-         Polje-3:Visina fonta: 9.0
-         Polje-4:Visina fonta: 9.0
-         Polje-5:Visina fonta: 9.0
-         Polje-6:Visina fonta: 9.0
-         Polje-7:Visina fonta: 9.0
-         Polje-8:Visina fonta: 9.0
-         Polje-9:Visina fonta: 9.0
-         Polje-10:Visina fonta: 9.0
-    Line-6:
-         Polje-1:Visina fonta: 9.0
-         Polje-2:Visina fonta: 9.0
-         Polje-3:Visina fonta: 9.0
-         Polje-4:Visina fonta: 9.0
-         Polje-5:Visina fonta: 9.0
-         Polje-6:Visina fonta: 9.0
-         Polje-7:Visina fonta: 9.0
-         Polje-8:Visina fonta: 9.0
-         Polje-9:Visina fonta: 9.0
-         Polje-10:Visina fonta: 9.0
-    Line-7:
-         Polje-1:Visina fonta: 9.0
-         Polje-2:Visina fonta: 9.0
-         Polje-3:Visina fonta: 9.0
-         Polje-4:Visina fonta: 9.0
-         Polje-5:Visina fonta: 9.0
-         Polje-6:Visina fonta: 9.0
-         Polje-7:Visina fonta: 9.0
-         Polje-8:Visina fonta: 9.0
-         Polje-9:Visina fonta: 9.0
-         Polje-10:Visina fonta: 9.0
-    Line-8:
+    Line-16:
          Polje-1:Visina fonta: 9.0
-         Polje-2:Visina fonta: 9.0
-         Polje-3:Visina fonta: 9.0
-         Polje-4:Visina fonta: 9.0
-         Polje-5:Visina fonta: 9.0
-         Polje-6:Visina fonta: 9.0
-         Polje-7:Visina fonta: 9.0
-         Polje-8:Visina fonta: 9.0
-         Polje-9:Visina fonta: 9.0
-         Polje-10:Visina fonta: 9.0
-    Line-9:
-         Polje-1:Visina fonta: 9.0
-         Polje-2:Visina fonta: 9.0
-         Polje-3:Visina fonta: 9.0
-         Polje-4:Visina fonta: 9.0
-         Polje-5:Visina fonta: 9.0
-         Polje-6:Visina fonta: 9.0
-         Polje-7:Visina fonta: 9.0
-         Polje-8:Visina fonta: 9.0
-         Polje-9:Visina fonta: 9.0
-         Polje-10:Visina fonta: 9.0
-    Line-10:
-         Polje-1:Visina fonta: 9.0
-         Polje-2:Visina fonta: 9.0
-         Polje-3:Visina fonta: 9.0
-         Polje-4:Visina fonta: 9.0
-         Polje-5:Visina fonta: 9.0
-         Polje-6:Visina fonta: 9.0
-         Polje-7:Visina fonta: 9.0
-         Polje-8:Visina fonta: 9.0
-         Polje-9:Visina fonta: 9.0
-         Polje-10:Visina fonta: 9.0
-    Line-11:
-         Polje-1:Visina fonta: 6.0
-    Line-12:
-         Polje-1:Visina fonta: 6.0
-    Line-13:
-         Polje-1:Visina fonta: 6.0
-    Line-14:
-         Polje-1:Visina fonta: 6.0
-Page: 22
-    Line-1:
+    Line-17:
          Polje-1:Visina fonta: 9.0
-         Polje-2:Visina fonta: 9.0
-    Line-2:
+    Line-18:
          Polje-1:Visina fonta: 9.0
-    Line-3:
-         Polje-1:Visina fonta: 6.0
-    Line-4:
+    Line-19:
          Polje-1:Visina fonta: 9.0
-    Line-5:
-         Polje-1:Visina fonta: 6.0
-         Polje-2:Visina fonta: 9.0
-         Polje-3:Visina fonta: 9.0
-         Polje-4:Visina fonta: 9.0
-         Polje-5:Visina fonta: 9.0
-         Polje-6:Visina fonta: 9.0
-         Polje-7:Visina fonta: 9.0
-         Polje-8:Visina fonta: 9.0
-         Polje-9:Visina fonta: 9.0
-         Polje-10:Visina fonta: 9.0
-    Line-6:
+    Line-20:
          Polje-1:Visina fonta: 9.0
-         Polje-2:Visina fonta: 9.0
-         Polje-3:Visina fonta: 9.0
-         Polje-4:Visina fonta: 9.0
-         Polje-5:Visina fonta: 9.0
-         Polje-6:Visina fonta: 9.0
-         Polje-7:Visina fonta: 9.0
-         Polje-8:Visina fonta: 9.0
-         Polje-9:Visina fonta: 9.0
-         Polje-10:Visina fonta: 9.0
-    Line-7:
+    Line-21:
          Polje-1:Visina fonta: 9.0
-         Polje-2:Visina fonta: 9.0
-         Polje-3:Visina fonta: 9.0
-         Polje-4:Visina fonta: 9.0
-         Polje-5:Visina fonta: 9.0
-         Polje-6:Visina fonta: 9.0
-         Polje-7:Visina fonta: 9.0
-         Polje-8:Visina fonta: 9.0
-         Polje-9:Visina fonta: 9.0
-         Polje-10:Visina fonta: 9.0
-    Line-8:
+    Line-22:
          Polje-1:Visina fonta: 9.0
-         Polje-2:Visina fonta: 9.0
-         Polje-3:Visina fonta: 9.0
-         Polje-4:Visina fonta: 9.0
-         Polje-5:Visina fonta: 9.0
-         Polje-6:Visina fonta: 9.0
-         Polje-7:Visina fonta: 9.0
-         Polje-8:Visina fonta: 9.0
-         Polje-9:Visina fonta: 9.0
-         Polje-10:Visina fonta: 9.0
-    Line-9:
-         Polje-1:Visina fonta: 6.0
-    Line-10:
-         Polje-1:Visina fonta: 6.0
-    Line-11:
+    Line-23:
          Polje-1:Visina fonta: 6.0
-    Line-12:
+    Line-24:
          Polje-1:Visina fonta: 6.0
