@@ -23,9 +23,7 @@ import java.util.Vector;
  * @author Nebojsa
  */
 public class PageNacrtaj {
-    //int fontSize;
     double visinaFonta;
-    //Font font;
     Graphics2D g2D;
     double medjY;
     double medjYDw;    
@@ -33,6 +31,7 @@ public class PageNacrtaj {
     PagesPripremi pagesPripremi;
     double p;
     String naslov;
+    Vector pageVector;
     public PageNacrtaj(PagesPripremi pagesPripremi, double p){
         this.p = p;        
         this.pagesPripremi = pagesPripremi;
@@ -45,6 +44,7 @@ public class PageNacrtaj {
     }
     public void Prikazi(Vector pageVector, Graphics g) throws Exception{
         //FontMetrics fm = g.getFontMetrics();
+        this.pageVector = pageVector;
         visinaFonta=0;
             
         Dimension pocetakPage = pagesPripremi.getPocetakPage();
@@ -54,7 +54,7 @@ public class PageNacrtaj {
 
         java.awt.geom.Rectangle2D r = new java.awt.geom.Rectangle2D.Float (pocetakPage.width, pocetakPage.height, sirinaPage, visinaPage); 
         
-        Vector page = (Vector) pageVector.elementAt(pagesPripremi.getTrenutnatPage());
+        Vector page = (Vector) this.pageVector.elementAt(pagesPripremi.getTrenutnatPage());
 
         g2D = (Graphics2D) g;        
         g2D.setPaint(Color.white);
@@ -87,7 +87,7 @@ public class PageNacrtaj {
                 // Prepravljamo text i sirinu texta
                 String[] vrednosti = cell.split("&&%%");
                 if (vrednosti.length > 1){
-                    RezervisanaPolja rezervisanaPolja = new RezervisanaPolja(pagesPripremi.getTrenutnatPage()+1, pageVector.size(), naslov);
+                    RezervisanaPolja rezervisanaPolja = new RezervisanaPolja(pagesPripremi.getTrenutnatPage()+1, this.pageVector.size(), naslov);
                     cell = rezervisanaPolja.Prepravi(vrednosti);
 
                     PoljeZaStampu poljeZaStampu = new PoljeZaStampu();

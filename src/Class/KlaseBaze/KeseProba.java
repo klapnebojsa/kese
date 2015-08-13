@@ -277,8 +277,7 @@ public class KeseProba extends AbstractDAO implements Serializable {
             setRacun3("Ovo je upis bez tabele");
 
             racun = true;
-        } catch (Exception e) {
-        }
+        } catch (Exception e) {}
         return racun;
     }
 

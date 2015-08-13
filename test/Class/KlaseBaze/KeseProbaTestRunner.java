@@ -3,21 +3,23 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package Stampa;
-/**
- *
- * @author Nebojsa
- */
+package Class.KlaseBaze;
+
+import Stampa.PageNacrtajTest;
 import org.junit.runner.JUnitCore;
 import org.junit.runner.Result;
 import org.junit.runner.notification.Failure;
 
-public class PageNacrtajRunner {
+/**
+ *
+ * @author Nebojsa
+ */
+public class KeseProbaTestRunner {
     public static void main(String[] args) {
-        Result result = JUnitCore.runClasses(PageNacrtajTest.class);
+        Result result = JUnitCore.runClasses(KeseProbaTest.class);
         for (Failure failure : result.getFailures()) {
            System.out.println(failure.toString());
         }
         System.out.println(result.wasSuccessful());
-    }
+    }    
 }
