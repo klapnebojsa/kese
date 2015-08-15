@@ -5,9 +5,13 @@
  */
 package Stampa;
 
+import JUnitTestPackage.Podaci.JUnitCitajGraphics;
 import Stampa.*;
 import JUnitTestPackage.Podaci.JUnitCitajVector;
 import Stampa.Podaci.PoljeZaStampu;
+import java.awt.Dimension;
+import java.awt.Graphics;
+import java.io.FileNotFoundException;
 import java.io.PrintWriter;
 import java.util.Vector;
 import javax.swing.JComboBox;
@@ -28,11 +32,12 @@ import org.junit.Test;
 public class PageNacrtajTest  extends JFrame {
     PageNacrtaj pageNacrtaj = new PageNacrtaj();
     //EmployeeDetails employee = new EmployeeDetails();
-    Vector productsFromFile;
+    Vector productsFromFileVe;
+    Graphics productsFromFileGr;    
     JPanel contentPane;
     String kojaKlasa;
     JComboBox klasa = new JComboBox();
-
+    //PagesPripremi pagesPripremi;
    //test to check appraisal
    @Test
    public void testCalculateAppriasal() throws Exception {
@@ -48,7 +53,7 @@ public class PageNacrtajTest  extends JFrame {
         //if (!"".equals(kojaKlasa)){
        
             //********** CITANJE IZ JUnit FAJLA             
-            JUnitCitajVector jUnitCitajStampa = new JUnitCitajVector();
+            /*JUnitCitajVector jUnitCitajStampa = new JUnitCitajVector();
             productsFromFile = new Vector((Vector) jUnitCitajStampa.Citaj(kojaKlasa));
 
             PrintWriter printWriter = new PrintWriter ( "JUnitTest/Rezultati/vectorPodaci" + kojaKlasa + ".txt" );
@@ -80,7 +85,7 @@ public class PageNacrtajTest  extends JFrame {
             }
             printWriter.close();
             //assertEquals(500, appraisal, 0.0);
-            System.out.println(true);            
+            System.out.println(true);  */          
        //}
    }
    
@@ -103,8 +108,11 @@ public class PageNacrtajTest  extends JFrame {
             pageNacrtaj.medjY=10;
             pageNacrtaj.medjYDw=10;
             pageNacrtaj.medjX=10;
-            
-            System.out.println("in before- " + ", KojaKlasa:" + kojaKlasa + ", medjY:" + pageNacrtaj.medjY + ", medjYDw:" + pageNacrtaj.medjYDw + ", medjX:" + pageNacrtaj.medjX);
+            //pagesPripremi = new PagesPripremi();
+            pageNacrtaj.pocetakPage = new Dimension(0,0);
+            pageNacrtaj.sirinaPage = 841;
+            pageNacrtaj.visinaPage = 541;            
+            pageNacrtaj.p = 1.0;
         }
 
         //execute after test
@@ -115,8 +123,27 @@ public class PageNacrtajTest  extends JFrame {
 
         //test case
         @Test
-        public void test() {
-           System.out.println("in test");
+        public void test() throws FileNotFoundException, Exception {
+            System.out.println("in test");
+            System.out.println("in before- " + ", KojaKlasa:" + kojaKlasa + ", medjY:" + pageNacrtaj.medjY + ", medjYDw:" + pageNacrtaj.medjYDw + ", medjX:" + pageNacrtaj.medjX);            
+            //PageNacrtaj pageNacrtaj = new PageNacrtaj(); 
+            //********** CITANJE IZ JUnit FAJLA             
+            JUnitCitajVector jUnitCitajStampa = new JUnitCitajVector();
+            productsFromFileVe = new Vector((Vector) jUnitCitajStampa.Citaj(kojaKlasa));
+            //PrintWriter printWriter = new PrintWriter ( "JUnitTest/Rezultati/vectorPodaci" + kojaKlasa + ".txt" );
+            
+            JUnitCitajGraphics jUnitCitajGraphics = new JUnitCitajGraphics();
+            productsFromFileGr = (Graphics) jUnitCitajGraphics.Citaj(kojaKlasa);
+            //PrintWriter printWriter1 = new PrintWriter ( "JUnitTest/Rezultati/Graphics" + kojaKlasa + ".txt" );           
+            System.out.println("Klasa: " + kojaKlasa);
+            
+            System.out.println("Graphics: " + productsFromFileGr);
+            
+            Vector pages = (Vector) productsFromFileVe;                   
+            pageNacrtaj.Prikazi(pages, productsFromFileGr);             
+           
+           
+            System.out.println("KRAJ in test");           
         }
 
         //test case ignore and will not execute

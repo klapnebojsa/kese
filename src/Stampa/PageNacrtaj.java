@@ -5,6 +5,8 @@
  */
 package Stampa;
 
+import JUnitTestPackage.Podaci.JUnitUpisiGraphic;
+import JUnitTestPackage.Podaci.JUnitUpisiVector;
 import Stampa.Podaci.FontMetric;
 import Stampa.Podaci.PoljeZaStampu;
 import Stampa.RezervisanaPolja.RezervisanaPolja;
@@ -32,6 +34,11 @@ public class PageNacrtaj {
     double p;
     String naslov;
     Vector pageVector;
+    int sirinaPage;
+    int visinaPage;
+    Dimension pocetakPage;
+    int trenutnaStrana;
+    
     public PageNacrtaj(PagesPripremi pagesPripremi, double p){
         this.p = p;        
         this.pagesPripremi = pagesPripremi;
@@ -39,22 +46,21 @@ public class PageNacrtaj {
         medjYDw = pagesPripremi.formPrintPreview.stampaSetujPage.getMMedjYDw();        
         medjX = pagesPripremi.formPrintPreview.stampaSetujPage.getMMedjX();
         naslov = pagesPripremi.formPrintPreview.koZove.getOpisForme();
+        pocetakPage = pagesPripremi.getPocetakPage();
+        sirinaPage = (int)pagesPripremi.getUkupnoSize().width;         
+        visinaPage = (int)pagesPripremi.getUkupnoSize().height;
+        trenutnaStrana = pagesPripremi.getTrenutnatPage();
     }
     public PageNacrtaj(){
     }
-    public void Prikazi(Vector pageVector, Graphics g) throws Exception{
+    public void Prikazi(Vector pageVector, Graphics g) throws Exception{        
         //FontMetrics fm = g.getFontMetrics();
         this.pageVector = pageVector;
         visinaFonta=0;
-            
-        Dimension pocetakPage = pagesPripremi.getPocetakPage();
-
-        int sirinaPage = (int)pagesPripremi.getUkupnoSize().width;         
-        int visinaPage = (int)pagesPripremi.getUkupnoSize().height; 
-
+        
         java.awt.geom.Rectangle2D r = new java.awt.geom.Rectangle2D.Float (pocetakPage.width, pocetakPage.height, sirinaPage, visinaPage); 
         
-        Vector page = (Vector) this.pageVector.elementAt(pagesPripremi.getTrenutnatPage());
+        Vector page = (Vector) this.pageVector.elementAt(trenutnaStrana);
 
         g2D = (Graphics2D) g;        
         g2D.setPaint(Color.white);
@@ -87,7 +93,7 @@ public class PageNacrtaj {
                 // Prepravljamo text i sirinu texta
                 String[] vrednosti = cell.split("&&%%");
                 if (vrednosti.length > 1){
-                    RezervisanaPolja rezervisanaPolja = new RezervisanaPolja(pagesPripremi.getTrenutnatPage()+1, this.pageVector.size(), naslov);
+                    RezervisanaPolja rezervisanaPolja = new RezervisanaPolja(trenutnaStrana+1, this.pageVector.size(), naslov);
                     cell = rezervisanaPolja.Prepravi(vrednosti);
 
                     PoljeZaStampu poljeZaStampu = new PoljeZaStampu();
@@ -112,23 +118,16 @@ public class PageNacrtaj {
 
                 int yText = (int)(pY - fm.getMaxDescent() + ukVisina);
 
+                double x=0;
                 switch (lineVector.elementAt(iC).getAlignment()){          
-                    case "Left":
-                        g2D.drawString(cell, (int)(pX + pocetakPage.width + medjX*p), yText);
-                        break;
-                    case "Right":
-                        double x = xRg - textwidth - medjX*p;
-                        g2D.drawString(cell, (int)x, yText);
-                        break;
-                    case "Center":
-                        double x1 = xLf + (xRg - xLf  - textwidth)/2;
-                        g2D.drawString(cell, (int)x1, yText);
-                        break;                        
+                    case "Left"  : x = pX + pocetakPage.width + medjX*p;  break;
+                    case "Right" : x = xRg - textwidth - medjX*p;         break;
+                    case "Center": x = xLf + (xRg - xLf  - textwidth)/2;  break;                        
                 }
                 pocX += widthPolja;
                 
-                if (lineVector.elementAt(iC).getCijeJe()=="MedjuZbir"){}
-                    
+                //Stampa teksta
+                g2D.drawString(cell, (int)x, yText);
                 //Linije tabele
                 if (lineVector.elementAt(iC).getDownLine())  {g2D.setStroke(new BasicStroke(lineVector.elementAt(iC).getDownLineWeight()));  g2D.drawLine(xLf, yDw, xRg, yDw);}
                 if (lineVector.elementAt(iC).getTopLine())   {g2D.setStroke(new BasicStroke(lineVector.elementAt(iC).getTopLineWeight()));   g2D.drawLine(xLf, yUp, xRg, yUp);} 

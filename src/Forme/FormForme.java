@@ -62,7 +62,7 @@ public class FormForme extends JFrame {
     InfoLinija infolinija;
     JTextField tex;
     public AbstractDAO k;
-    BrokerDAO brokerDAO;
+    public BrokerDAO brokerDAO;
     BrokerDAO brokerDAOPreth;
     PoljaIzTabeleDefinicija poljaIzTabele;
     double deoWidth;

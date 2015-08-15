@@ -8,6 +8,8 @@ package Stampa;
 import Forme.FormPrintPreview;
 import Forme.Konstante.Mere;
 import Forme.Tabele.MojaTabela;
+import JUnitTestPackage.Podaci.JUnitCitajGraphics;
+import JUnitTestPackage.Podaci.JUnitUpisiGraphic;
 import Sistem.OsnovneDefinicije.RezolucijaEkrana;
 import Stampa.Podaci.FontMetric;
 import Stampa.Podaci.Konstante;
@@ -72,7 +74,7 @@ public class PagesPripremi extends JComponent implements Printable, Serializable
     PageNacrtaj pageNacrtaj;
     Double preracun;
     int brKopija;
-
+    
     public PagesPripremi(Vector headerLineVectorAll, Vector naslovLineVectorAll, Vector uvodLineVectorAll, 
                          Vector zakljucakLineVectorAll, Vector krajLineVectorAll, Vector footerLineVectorAll,
                          Vector tableLineVectorAll, Vector tableHeaderLineVector, Vector tableMedjuZbirVector, Vector kojaPoljaMedjuZbirVector,
@@ -218,7 +220,7 @@ public class PagesPripremi extends JComponent implements Printable, Serializable
         repaint();
     }
 
-    public void paintComponent(Graphics g){
+    public void paintComponent (Graphics g){
         pocetakPage = new Dimension();
         g.setFont(new Font(fName, fStyle, fontSize));        
         FontMetric fontMetric = new FontMetric(new Font(fName, fStyle, (int)formPrintPreview.stampaSetujPage.getMVelFonta()));
@@ -258,7 +260,18 @@ public class PagesPripremi extends JComponent implements Printable, Serializable
         }
         ukupnoSize = (new Dimension((int)sirinaPage, (int)visinaPage));        
         pageNacrtaj = new PageNacrtaj(this, resizeP);
-        try {pageNacrtaj.Prikazi(pageVector, g);
+        try {
+            pageNacrtaj.Prikazi(pageVector, g);
+            ////////PODACI ZA JUNIT *******************************************************************   
+            //********** UPIS U JUnit (Graphics) FAJL            
+            JUnitUpisiGraphic jUnitUpisiGraphic = new JUnitUpisiGraphic();
+            jUnitUpisiGraphic.Upisi(formPrintPreview.koZove.brokerDAO.a.ImeKlase(), g);
+            
+        //********** CITANJE IZ JUnit FAJLA             
+        JUnitCitajGraphics jUnitCitajGraphics = new JUnitCitajGraphics();
+        Graphics productsFromFile = (Graphics) jUnitCitajGraphics.Citaj(formPrintPreview.koZove.brokerDAO.a.ImeKlase());              
+            
+            
         } catch (Exception ex) {Logger.getLogger(PagesPripremi.class.getName()).log(Level.SEVERE, null, ex);}
     }    
     
@@ -275,11 +288,14 @@ public class PagesPripremi extends JComponent implements Printable, Serializable
     
     public void setPocetakPage(Dimension pocetakPage){this.pocetakPage = pocetakPage;}
     public Dimension getPocetakPage(){   return pocetakPage;   }
+    
     public void setFont(Font font){      this.font = font;}
     public Font getFont(){               return font;  } 
     //public Dimension getPreferredSize() {return preferredSize;   }
     public Dimension getUkupnoOsnovno() {return ukupnoOsnovno;   }
-    public Dimension getUkupnoSize() {   return ukupnoSize;    }
+    public Dimension getUkupnoSize()    {return ukupnoSize;    }
+    public void setUkupnoSize(Dimension ukupnoSize){this.ukupnoSize = ukupnoSize;}
+    
     public int getTrenutnatPage() {      return trenutniRbrStrane;    }
     public int getNumPages() {           return pageVector.size(); }
     public void sledecaStrana() {
