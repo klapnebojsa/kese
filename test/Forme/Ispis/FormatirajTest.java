@@ -60,7 +60,7 @@ public class FormatirajTest {
             {"INT", 0, 10, "50", "", false, "50"},
             {"DOUBLE", 3, 10, "1256.325", "", false, "1,256.325"},
             {"DECIMAL", 6, 20, "1231256.123325", "", false, "1,231,256.123325"},
-            {"BIGDECIMAL", 6, 20, "1256831256.123325", "", false, "1,256,831,256.123325"},
+            {"BIGDECIMAL", 6, 20, "125683,1256.123325", "", false, "1,256,831,256.123325"},
             {"VARCHAR", 0, 50, "Ovo je polje VARCHAR", "", false, "Ovo je polje VARCHAR"},
             {"BIGINT", 0, 20, "123656565", "", false, "123,656,565"},
             {"DATE", 0, 20, "2015-12-25", "TextBox", false, "25.12.2015"}, 

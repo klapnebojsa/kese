@@ -99,9 +99,9 @@ public class KeseProbaTest {
      */
     @Test
     public void testSetIdKese() {
-        keseProba.setIdKese(BigInteger.valueOf(101));
+        keseProba.setIdKese(BigInteger.valueOf(102));
         
-        BigInteger expResult = BigInteger.valueOf(101);
+        BigInteger expResult = BigInteger.valueOf(102);
         BigInteger result = keseProba.getIdKese();
         assertEquals(expResult, result);        
         System.out.println("SetIdKese: " + "Test:"+expResult + "  " + "Klasa:"+result);             
